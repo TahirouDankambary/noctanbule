@@ -1,0 +1,62 @@
+[
+  {
+    "photo1":"https://upload.wikimedia.org/wikipedia/fr/6/61/Al-A%C3%AFn_FC.png",
+    "name1": "Al Ain",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
+    "name2": "Al-Ahli",
+    "champ": "Elite Ligue",
+    "heure": "14H00",
+    "date": "25/11/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Al-Gharafa_SC_logo.svg/1200px-Al-Gharafa_SC_logo.svg.png",
+    "name1": "Al-Gharafa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9d/Logo_Al-Nassr.png",
+    "name2": "Al Nassr",
+    "champ": "Elite Ligue",
+    "heure": "16H00",
+    "date": "25/11/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Logo_Newcastle_United.svg",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
+    "name2": "West-Ham",
+    "champ": "Premier Ligue",
+    "heure": "20H00",
+    "date": "25/11/2024",
+    "pro": "3 but d'afflilé (Non)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6CN8we269tY6L_aeKuhl_IJzqPDd4oi2fw&s",
+    "name1": "Empoli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png",
+    "name2": "Udinese Calcio",
+    "champ": "Serie A",
+    "heure": "17H30",
+    "date": "25/11/2024",
+    "pro": "Total 2 (0.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Venezia_FC_logo.png/1200px-Venezia_FC_logo.png",
+    "name1": "Venise",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
+    "name2": "Lecce",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "25/11/2024",
+    "pro": "Total (1.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
+    "name1": "Midtjylland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Silkeborg_IF_logo.svg/1200px-Silkeborg_IF_logo.svg.png",
+    "name2": "Silkeborg",
+    "champ": "Danemark Championnat",
+    "heure": "18H00",
+    "date": "24/11/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
+  }
+]
