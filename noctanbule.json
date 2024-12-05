@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
-    "name1": "Celtics de Boston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
-    "name2": "Heat de Miami",
+    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
+    "name1": "Wizard de Washington",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTfLPRxmQf0zpm9qVtMMq6-7RV3gZ393Jtg&s",
+    "name2": "Mavericks de Dallas",
     "champ": "NBA",
-    "heure": "00H30",
-    "date": "03/12/2024",
-    "pro": "Total: (+213)"
+    "heure": "00H00",
+    "date": "06/12/2024",
+    "pro": "Total: (+225)"
   },
   {
-    "photo1": "https://static.wikia.nocookie.net/sports-logos5931/images/8/87/Atlanta_hawks_2014-2015_a.png/revision/latest?cb=20170620004134",
-    "name1": "Atlanta Hawks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/New_Orleans_Pelicans.png",
-    "name2": "Nouvelle Orléans",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
+    "name1": "Cavaliers de Cleveland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name2": "Denver Nuggets",
+    "champ": "NBA",
+    "heure": "00H00",
+    "date": "06/12/2024",
+    "pro": "Equipe gange: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+    "name1": "Toronto",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wKVJD8N8WJKOZMhBYrrhdcZVH-vm70MRxw&s",
+    "name2": "Oklahoma",
     "champ": "NBA",
     "heure": "00H30",
-    "date": "03/12/2024",
+    "date": "06/12/2024",
     "pro": "Total: (+220.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png",
-    "name1": "Timberwolves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1280px-Los_Angeles_Lakers_logo.svg.png",
-    "name2": "Lakers",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/langfr-180px-Logo_Knicks_New_York_-_2011.svg.png",
+    "name1": "Knicks de New York",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIyBMZ2kL2jU6VAcV0sGmyPm87wjF3LiIBBA&s",
+    "name2": "Charlotte",
+    "champ": "NBA",
+    "heure": "00H30",
+    "date": "06/12/2024",
+    "pro": "Chaque équipe va marquer (Total +99.5)- OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+    "name1": "San Antonio Spurs",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png",
+    "name2": "Chicago Bulls",
     "champ": "NBA",
     "heure": "01H00",
-    "date": "03/12/2024",
+    "date": "06/12/2024",
     "pro": "Equipe gagne: V1"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_York_Rangers.svg/800px-New_York_Rangers.svg.png",
-    "name1": "Rangers de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/New_Jersey_Devils_logo.svg/1200px-New_Jersey_Devils_logo.svg.png",
-    "name2": "New Jersey",
-    "champ": "Hockey. LNH",
-    "heure": "00H00",
-    "date": "03/12/2024",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/3a/Logo_des_Maple_Leafs_de_Toronto_2016.png",
-    "name1": "Maple Leafs de Toronto",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgF4jJjRDbNxbPKzUYBlO_IaaCYRlHwfonw&s",
-    "name2": "Blackhawks de Chicago",
-    "champ": "Hockey. LNH",
-    "heure": "00H30",
-    "date": "03/12/2024",
-    "pro": "V1"
-  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/ec/Logo_Utah_Hockey_Club.png",
-    "name1": "Utah",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_Dallas_Stars.svg/1200px-Logo_Dallas_Stars.svg.png",
-    "name2": "Dallas Stars",
-    "champ": "Hockey. LNH",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/21/New_Orleans_Pelicans.png",
+    "name1": "Nouvelle-Orléans",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/800px-Phoenix_Suns_logo.svg.png",
+    "name2": "Suns de Phoenix",
+    "champ": "NBA",
     "heure": "02H00",
     "date": "03/12/2024",
-    "pro": "Total: (+5.5)"
+    "pro": "Total: (+214.5)"
   }
 ]
