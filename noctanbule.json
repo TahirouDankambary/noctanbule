@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/800px-Miami_Heat_logo.svg.png",
-    "name1": "Heat de Miami",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/640px-Raptors_de_Toronto.png",
-    "name2": "Raptors de Toronto",
+    "photo1":"https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg",
+    "name1": "Charlotte Hornets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Philadelphia_75ers_2015.svg/langfr-180px-Philadelphia_75ers_2015.svg.png",
+    "name2": "76ers de Philadelphie",
     "champ": "NBA",
-    "heure": "00H30",
-    "date": "13/12/2024",
-    "pro": "Total: (+221.5)"
+    "heure": "00H00",
+    "date": "17/12/2024",
+    "pro": "Total: (+211)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/2048px-Celtics_de_Boston_logo.svg.png",
-    "name1": "Celtics de Boston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/1200px-Logo_of_the_Detroit_Pistons.svg.png",
-    "name2": "Piston de Détroit",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/640px-Logo_of_the_Detroit_Pistons.svg.png",
+    "name1": "Pistons de Détroit",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/800px-Miami_Heat_logo.svg.png",
+    "name2": "Heat de Miami",
     "champ": "NBA",
-    "heure": "00H30",
-    "date": "13/12/2024",
-    "pro": "Total: (-230.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e2/New_Orleans_Pelicans_2023.png",
-    "name1": "Nouvelle Orléans",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1792px-Kings_de_Sacramento_logo.svg.png",
-    "name2": "Kings de Sacramento",
-    "champ": "NBA",
-    "heure": "01H00",
-    "date": "13/12/2024",
+    "heure": "00H00",
+    "date": "17/12/2024",
     "pro": "Equipe gagne: V2"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/49/Nets_de_Brooklyn_2024.png",
+    "name1": "Brooklyn",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Cavaliers_de_Cleveland_2022.png/150px-Cavaliers_de_Cleveland_2022.png",
+    "name2": "Cavaliers de Cleveland",
+    "champ": "NBA",
+    "heure": "00H30",
+    "date": "17/12/2024",
+    "pro": "Total: (+211.5)"
+  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_des_Blue_Jackets_de_Columbus_2007.svg/800px-Logo_des_Blue_Jackets_de_Columbus_2007.svg.png",
-    "name1": "Blue Jackets de Columbus",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dallas_Stars_logo_%282013%29.svg/1200px-Dallas_Stars_logo_%282013%29.svg.png",
+    "name1": "Dallas Stars",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_des_Capitals_de_Washington_2007.svg/1200px-Logo_des_Capitals_de_Washington_2007.svg.png",
     "name2": "Washington Capitals",
     "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
-    "date": "13/12/2024",
-    "pro": "2X"
+    "heure": "01H00",
+    "date": "17/12/2024",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/langfr-220px-Montreal_Canadiens.svg.png",
-    "name1": "Canadiens de Montréal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Pittsburgh_Penguins_logo_%282016%29.svg/1200px-Pittsburgh_Penguins_logo_%282016%29.svg.png",
-    "name2": "Pittsburgh Penguins",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Oilers_d%27Edmonton_2022.png/800px-Oilers_d%27Edmonton_2022.png",
+    "name1": "Oilers d'Edmonton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Florida_Panthers_2016_logo.svg/1200px-Florida_Panthers_2016_logo.svg.png",
+    "name2": "Florida Panthers",
     "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
-    "date": "13/12/2024",
+    "heure": "01H30",
+    "date": "17/12/2024",
     "pro": "Total: (+5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Flyers_de_Philadelphie_2023.png/640px-Flyers_de_Philadelphie_2023.png",
-    "name1": "Flyers de Philadelphie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_des_Red_Wings_de_D%C3%A9troit_1948.svg/640px-Logo_des_Red_Wings_de_D%C3%A9troit_1948.svg.png",
-    "name2": "Red Wingd de Détroit",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Vancouver_Canucks_logo.svg/1200px-Vancouver_Canucks_logo.svg.png",
+    "name1": "Vancouver Canucks",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Colorado_Avalanche_logo.svg/1200px-Colorado_Avalanche_logo.svg.png",
+    "name2": "Colorado Avalanche",
     "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
-    "date": "13/12/2024",
-    "pro": "Total: (+4.5)"
+    "heure": "03H30",
+    "date": "17/12/2024",
+    "pro": "2X"
   }
 ]
