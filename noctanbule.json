@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Columbus_Blue_Jackets_logo.svg/1200px-Columbus_Blue_Jackets_logo.svg.png",
-    "name1": "Blue Jackets",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4f7C5kaMBsWN3mvPZBd4TrcB-bj3lvqiVtg&s",
-    "name2": "St. Louis Blues",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Buffalo_Sabres_Logo.svg/1200px-Buffalo_Sabres_Logo.svg.png",
+    "name1": "Buffalo Sabres",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Washington_Capitals.svg/1200px-Washington_Capitals.svg.png",
+    "name2": "Washington Capitals",
     "champ": "Hockey sur glace. LNH",
     "heure": "00H00",
-    "date": "05/01/2025",
-    "pro": "1X"
+    "date": "07/01/2025",
+    "pro": "Total: (+5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Carolina_Hurricanes.svg/1200px-Carolina_Hurricanes.svg.png",
-    "name1": "Carolina Hurricanes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/Logo_du_Wild_du_Minnesota_2013.svg/800px-Logo_du_Wild_du_Minnesota_2013.svg.png",
-    "name2": "Wild du Minnesota",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/langfr-220px-Montreal_Canadiens.svg.png",
+    "name1": "Canadiens de Montréal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Vancouver_Canucks_logo.svg/1200px-Vancouver_Canucks_logo.svg.png",
+    "name2": "Vancouver Canucks",
     "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
-    "date": "05/01/2025",
-    "pro": "Total: (+4.5)"
+    "heure": "00H30",
+    "date": "07/01/2025",
+    "pro": "Total: (+5)"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Colorado_Avalanche_logo.svg/1200px-Colorado_Avalanche_logo.svg.png",
     "name1": "Colorado Avalanche",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/langfr-220px-Montreal_Canadiens.svg.png",
-    "name2": "Canadiens de Montréal",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
-    "date": "05/01/2025",
-    "pro": "Total: (+5.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_des_Jets_de_Winnipeg.svg/1200px-Logo_des_Jets_de_Winnipeg.svg.png",
-    "name1": "Jets de Winnipeg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_des_Red_Wings_de_D%C3%A9troit_1948.svg/1200px-Logo_des_Red_Wings_de_D%C3%A9troit_1948.svg.png",
-    "name2": "Red Wings de Détroit",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
-    "date": "05/01/2025",
-    "pro": "Total: (+4.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Toronto_Maple_Leafs_2016_logo.svg/1200px-Toronto_Maple_Leafs_2016_logo.svg.png",
-    "name1": "Maple Leafs",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Bruins_Boston.svg/1200px-Logo_Bruins_Boston.svg.png",
-    "name2": "Bruins de Boston",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
-    "date": "05/01/2025",
-    "pro": "Total: (+5)"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dallas_Stars_logo_%282013%29.svg/1200px-Dallas_Stars_logo_%282013%29.svg.png",
-    "name1": "Dallas Stars",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/Logo_Utah_HC_alternatif_01.png",
-    "name2": "Utah",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "01H00",
-    "date": "05/01/2025",
-    "pro": "Total: (+5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/79/Logo_des_Kings_de_Los_Angeles_2019.png",
-    "name1": "Los Angeles Kings",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7JX8asA0MhY2kyr9EEtfMJzQzdAils6VIOQ&s",
-    "name2": "Lightning de Tampa Bay",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Florida_Panthers_2016_logo.svg/1200px-Florida_Panthers_2016_logo.svg.png",
+    "name2": "Florida Panthers",
     "champ": "Hockey sur glace. LNH",
     "heure": "02H00",
-    "date": "05/01/2025",
+    "date": "07/01/2025",
     "pro": "Total: (+4.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Calgary_Flames_logo.svg/1200px-Calgary_Flames_logo.svg.png",
-    "name1": "Calgary Flames",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Nashville_Predators_Logo_%282011%29.svg/1200px-Nashville_Predators_Logo_%282011%29.svg.png",
-    "name2": "Nashville Predators",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Seattle_Kraken_official_logo.svg/1200px-Seattle_Kraken_official_logo.svg.png",
+    "name1": "Seattle Kraken",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/New_Jersey_Devils_logo.svg/1200px-New_Jersey_Devils_logo.svg.png",
+    "name2": "New Jersey Devils",
     "champ": "Hockey sur glace. LNH",
     "heure": "03H00",
-    "date": "05/01/2025",
-    "pro": "Total: (+4.5)"
+    "date": "07/01/2025",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Philadelphia_75ers_2015.svg/2048px-Philadelphia_75ers_2015.svg.png",
+    "name1": "Philadelphie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/1200px-Phoenix_Suns_logo.svg.png",
+    "name2": "Suns de Phoenix",
+    "champ": "NBA",
+    "heure": "00H00",
+    "date": "07/01/2025",
+    "pro": "Equipe gagne: V1"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/1200px-Logo_of_the_Detroit_Pistons.svg.png",
+    "name1": "Pistons de Détroit",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png",
+    "name2": "Portland Trail",
+    "champ": "NBA",
+    "heure": "00H00",
+    "date": "07/01/2025",
+    "pro": "Total: (+218)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/3/36/Toronto_Raptors_logo.svg/1200px-Toronto_Raptors_logo.svg.png",
+    "name1": "Toronto",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwR9keyuyDYVSH0-4MJKCq0LAgzX8yKM2jg&s",
+    "name2": "Milwaukee",
+    "champ": "NBA",
+    "heure": "00H30",
+    "date": "07/01/2025",
+    "pro": "Total: (+220.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1548px-Brooklyn_Nets_newlogo.svg.png",
+    "name1": "Brooklyn Nets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1200px-Pacers_de_l%27Indiana_logo.svg.png",
+    "name2": "Pacers de l'Indiana",
+    "champ": "NBA",
+    "heure": "00H30",
+    "date": "07/01/2025",
+    "pro": "V2"
   }
 ]
