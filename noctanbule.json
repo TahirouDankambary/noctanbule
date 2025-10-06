@@ -1,52 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_geA-y-zqU8uibQO7KT5W_EIiQbctsIHrg&s",
-    "name1": "Université de Melbourne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Universit%C3%A9_d%27Australie-Occidentale_-_Logo.svg/556px-Universit%C3%A9_d%27Australie-Occidentale_-_Logo.svg.png",
-    "name2": "UWA Maali",
-    "champ": "Basket-ball. Australie. Ligue universitaire",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Miami_Heat.svg/langfr-250px-Miami_Heat.svg.png",
+    "name1": "Heat de Miami",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/968px-Milwaukee_Bucks_logo.svg.png",
+    "name2": "Bucks de Milwaukee",
+    "champ": "NBA",
+    "heure": "23H30",
+    "date": "06/10/2025",
+    "pro": "Total: (+217.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Grizzlies_de_Memphis_2018.png/250px-Grizzlies_de_Memphis_2018.png",
+    "name1": "Grizzlies de Memphis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/langfr-250px-Logo_of_the_Detroit_Pistons.svg.png",
+    "name2": "Pistons de Détroit",
+    "champ": "NBA",
+    "heure": "00H00",
+    "date": "07/10/2025",
+    "pro": "Total: (+225.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/San_Antonio_Spurs.svg/1280px-San_Antonio_Spurs.svg.png",
+    "name1": "San Antonio Spurs",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Guangzhou_Loong_Lions.svg/1200px-Guangzhou_Loong_Lions.svg.png",
+    "name2": "Guangzhou Long-Lions",
+    "champ": "NBA",
+    "heure": "00H00",
+    "date": "07/10/2025",
+    "pro": "Total: (+209.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/de/Houston_Rockets_logo_2003.png",
+    "name1": "Rockets de Houston",
+    "photo2": "https://static.wikia.nocookie.net/sports-logos5931/images/8/87/Atlanta_hawks_2014-2015_a.png/revision/latest?cb=20170620004134",
+    "name2": "Atlanta Hawks",
+    "champ": "NBA",
+    "heure": "00H00",
+    "date": "07/10/2025",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/2056px-Mavericks_de_Dallas_logo.svg.png",
+    "name1": "Mavericks de Dallas",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrYT3WkLwDeVJ7ydx7QYv8-rlVOE_y84nVZg&s",
+    "name2": "Oklahoma City",
+    "champ": "NBA",
+    "heure": "00H30",
+    "date": "07/10/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/250px-Raptors_de_Toronto.png",
+    "name1": "Raptors de Toronto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name2": "Denver Nuggets",
+    "champ": "NBA",
     "heure": "02H00",
-    "date": "17/09/2025",
-    "pro": "1X2 dans le temps réglementaire: V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f1/Victoria_University_Australia_Logo.png",
-    "name1": "Université Victoria de Melbourne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/41/Curtin_University_Crest",
-    "name2": "Curtin University",
-    "champ": "Basket-ball. Australie. Ligue universitaire",
-    "heure": "03H00",
-    "date": "17/09/2025",
-    "pro": "Total: (+167.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d8/Storm_de_Seattle_2021.png",
-    "name1": "Storm de Seattle(Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Las_Vegas_Aces_logo.svg/1459px-Las_Vegas_Aces_logo.svg.png",
-    "name2": "Ace de Las Vegas(Femmes)",
-    "champ": "Basket-ball. WNBA",
-    "heure": "01H30",
-    "date": "17/09/2025",
-    "pro": "Total: (+156.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_geA-y-zqU8uibQO7KT5W_EIiQbctsIHrg&s",
-    "name1": "Université de Melbourne(Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
-    "name2": "UWA Maali(Femmes)",
-    "champ": "Basket-ball. Australie. Ligue universitaire. Femmes",
-    "heure": "01H00",
-    "date": "17/09/2025",
-    "pro": "Total: (+133.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",
-    "name1": "Université Victoria de Melbourne(Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/41/Curtin_University_Crest",
-    "name2": "Curtin University(Femmes)",
-    "champ": "Basket-ball. Australie. Ligue universitaire. Femmes",
-    "heure": "01H00",
-    "date": "17/09/2025",
-    "pro": "Equipe gagne: V2"
+    "date": "07/10/2025",
+    "pro": "Total: (+221.5)"
   }
 ]
