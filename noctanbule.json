@@ -1,62 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Miami_Heat.svg/langfr-250px-Miami_Heat.svg.png",
-    "name1": "Heat de Miami",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/968px-Milwaukee_Bucks_logo.svg.png",
-    "name2": "Bucks de Milwaukee",
-    "champ": "NBA",
-    "heure": "23H30",
-    "date": "06/10/2025",
-    "pro": "Total: (+217.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_des_Coyotes_de_Phoenix_1999.png",
+    "name1": "Phoenix Tula",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_EuroHockey.png/250px-Logo_EuroHockey.png",
+    "name2": "Elektronik Yaroslavl",
+    "champ": "Hockey sur galce. RHL",
+    "heure": "03H30",
+    "date": "03/07/2026",
+    "pro": "Total: (+7.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Grizzlies_de_Memphis_2018.png/250px-Grizzlies_de_Memphis_2018.png",
-    "name1": "Grizzlies de Memphis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/langfr-250px-Logo_of_the_Detroit_Pistons.svg.png",
-    "name2": "Pistons de Détroit",
-    "champ": "NBA",
-    "heure": "00H00",
-    "date": "07/10/2025",
-    "pro": "Total: (+225.5)"
+    "photo1": "https://www.pngkey.com/png/full/778-7787976_flex-warrior-hockey.png",
+    "name1": "Warriors UAHL",
+    "photo2": "https://static.wikia.nocookie.net/mahlhockey/images/9/92/Fairmont.png/revision/latest?cb=20231204164410",
+    "name2": "Hawks-",
+    "champ": "Hockey sur galce. USA. UAHL",
+    "heure": "02H15",
+    "date": "03/07/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/San_Antonio_Spurs.svg/1280px-San_Antonio_Spurs.svg.png",
-    "name1": "San Antonio Spurs",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Guangzhou_Loong_Lions.svg/1200px-Guangzhou_Loong_Lions.svg.png",
-    "name2": "Guangzhou Long-Lions",
-    "champ": "NBA",
-    "heure": "00H00",
-    "date": "07/10/2025",
-    "pro": "Total: (+209.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/Oregonstatebeavers.jpg",
+    "name1": "Beavers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/Logo_du_Wild_du_Minnesota_2013.svg/1280px-Logo_du_Wild_du_Minnesota_2013.svg.png",
+    "name2": "Gnarwhals",
+    "champ": "Hockey sur galce. USA. UAHL",
+    "heure": "00H10",
+    "date": "04/07/2026",
+    "pro": "Handicap: 1(1)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/de/Houston_Rockets_logo_2003.png",
-    "name1": "Rockets de Houston",
-    "photo2": "https://static.wikia.nocookie.net/sports-logos5931/images/8/87/Atlanta_hawks_2014-2015_a.png/revision/latest?cb=20170620004134",
-    "name2": "Atlanta Hawks",
-    "champ": "NBA",
-    "heure": "00H00",
-    "date": "07/10/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlc34DDeKoNBW2vj3DxFOYwp-AMekYgvKf7ZXyRjgAPQ&s=10",
+    "name1": "Shakas",
+    "photo2": "https://static.wikia.nocookie.net/icehockey/images/a/a2/Roanoke_Rail_Yard_Dawgs_2025.png/revision/latest/scale-to-width-down/250?cb=20250715201319",
+    "name2": "South Jersey Dawgs",
+    "champ": "Hockey sur galce. USA. UAHL",
+    "heure": "01H35",
+    "date": "04/07/2026",
     "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/2056px-Mavericks_de_Dallas_logo.svg.png",
-    "name1": "Mavericks de Dallas",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrYT3WkLwDeVJ7ydx7QYv8-rlVOE_y84nVZg&s",
-    "name2": "Oklahoma City",
-    "champ": "NBA",
-    "heure": "00H30",
-    "date": "07/10/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/250px-Raptors_de_Toronto.png",
-    "name1": "Raptors de Toronto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
-    "name2": "Denver Nuggets",
-    "champ": "NBA",
-    "heure": "02H00",
-    "date": "07/10/2025",
-    "pro": "Total: (+221.5)"
   }
 ]
