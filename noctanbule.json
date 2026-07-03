@@ -1,42 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_des_Coyotes_de_Phoenix_1999.png",
-    "name1": "Phoenix Tula",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_EuroHockey.png/250px-Logo_EuroHockey.png",
-    "name2": "Elektronik Yaroslavl",
-    "champ": "Hockey sur galce. RHL",
-    "heure": "03H30",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQYGXpJWVjeTYaAkQLf_nc5SbP6WgIsfYgXSFAOvujA&s=10",
+    "name1": "Washington Nationals",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pittsburgh_Pirates_logo_2014.svg/langfr-250px-Pittsburgh_Pirates_logo_2014.svg.png",
+    "name2": "Pirates de Pittsburgh",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "22H45",
     "date": "03/07/2026",
-    "pro": "Total: (+7.5)"
+    "pro": "V2 Et TM(9.5) - NON"
   },
   {
-    "photo1": "https://www.pngkey.com/png/full/778-7787976_flex-warrior-hockey.png",
-    "name1": "Warriors UAHL",
-    "photo2": "https://static.wikia.nocookie.net/mahlhockey/images/9/92/Fairmont.png/revision/latest?cb=20231204164410",
-    "name2": "Hawks-",
-    "champ": "Hockey sur galce. USA. UAHL",
-    "heure": "02H15",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/New_York_Yankees_logo.svg/1280px-New_York_Yankees_logo.svg.png",
+    "name1": "Yankees de New York",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3TaFamAzpNIZBfPtQCo64afodnZ10kKoGGkWuHTk70w&s",
+    "name2": "Twins du Minnesota",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H05",
     "date": "03/07/2026",
-    "pro": "2X"
+    "pro": "V2 Et TM(9.5) - NON"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/Oregonstatebeavers.jpg",
-    "name1": "Beavers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/Logo_du_Wild_du_Minnesota_2013.svg/1280px-Logo_du_Wild_du_Minnesota_2013.svg.png",
-    "name2": "Gnarwhals",
-    "champ": "Hockey sur galce. USA. UAHL",
-    "heure": "00H10",
-    "date": "04/07/2026",
-    "pro": "Handicap: 1(1)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTslBti8ffwCgMSJ0XGAASnYffjjSWCR6pei_F7Niuw&s=10",
+    "name1": "Cleveland Guardians",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/langfr-250px-Chicago_White_Sox.svg.png",
+    "name2": "White Sox de Chicago",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H10",
+    "date": "03/07/2026",
+    "pro": "Handicap: 2(3)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlc34DDeKoNBW2vj3DxFOYwp-AMekYgvKf7ZXyRjgAPQ&s=10",
-    "name1": "Shakas",
-    "photo2": "https://static.wikia.nocookie.net/icehockey/images/a/a2/Roanoke_Rail_Yard_Dawgs_2025.png/revision/latest/scale-to-width-down/250?cb=20250715201319",
-    "name2": "South Jersey Dawgs",
-    "champ": "Hockey sur galce. USA. UAHL",
-    "heure": "01H35",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/1280px-Cincinnati_Reds_Logo.svg.png",
+    "name1": "Reds de Cincinnati",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Orioles_new.PNG/250px-Orioles_new.PNG",
+    "name2": "Orioles de Baltimore",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H10",
+    "date": "03/07/2026",
+    "pro": "Handicap: 1(3)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c3/Logo_Redbirds_de_Memphis.png",
+    "name1": "Redbirds de Memphis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1f/Knights_de_Charlotte_2023.png",
+    "name2": "Knights de Charlotte",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "00H05",
     "date": "04/07/2026",
-    "pro": "V1"
+    "pro": "Handicap: 2(3)"
   }
 ]
