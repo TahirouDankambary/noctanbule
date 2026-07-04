@@ -1,52 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQYGXpJWVjeTYaAkQLf_nc5SbP6WgIsfYgXSFAOvujA&s=10",
-    "name1": "Washington Nationals",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pittsburgh_Pirates_logo_2014.svg/langfr-250px-Pittsburgh_Pirates_logo_2014.svg.png",
-    "name2": "Pirates de Pittsburgh",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H45",
-    "date": "03/07/2026",
-    "pro": "V2 Et TM(9.5) - NON"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXklM9IGVKM1hfkluZLldEatUUV4VOLthrtECcsYoA0w&s=10",
+    "name1": "Bears de Penrith",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/4a/Canberra_Brave_%282024%29.png",
+    "name2": "Canberra Brave",
+    "champ": "Hockey sur glace. Australie. AIHL",
+    "heure": "04H00",
+    "date": "05/07/2026",
+    "pro": "Total: (+6.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/New_York_Yankees_logo.svg/1280px-New_York_Yankees_logo.svg.png",
-    "name1": "Yankees de New York",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3TaFamAzpNIZBfPtQCo64afodnZ10kKoGGkWuHTk70w&s",
-    "name2": "Twins du Minnesota",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H05",
-    "date": "03/07/2026",
-    "pro": "V2 Et TM(9.5) - NON"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f9/Perth_Thunder_Logo.png",
+    "name1": "Perth Thunder",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Brisbane_Lightning_Logo.png",
+    "name2": "Brisbane Lightning",
+    "champ": "Hockey sur glace. Australie. AIHL",
+    "heure": "05H45",
+    "date": "05/07/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTslBti8ffwCgMSJ0XGAASnYffjjSWCR6pei_F7Niuw&s=10",
-    "name1": "Cleveland Guardians",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/langfr-250px-Chicago_White_Sox.svg.png",
-    "name2": "White Sox de Chicago",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H10",
-    "date": "03/07/2026",
-    "pro": "Handicap: 2(3)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Russia-flag.png",
+    "name1": "Russie (Amateur)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/330px-Flag_of_Finland.svg.png",
+    "name2": "Finlande (Amateur)",
+    "champ": "Hockey sur glace. Dream League",
+    "heure": "05H50",
+    "date": "05/07/2026",
+    "pro": "Handicap: 1(1)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/1280px-Cincinnati_Reds_Logo.svg.png",
-    "name1": "Reds de Cincinnati",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Orioles_new.PNG/250px-Orioles_new.PNG",
-    "name2": "Orioles de Baltimore",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHuPC38t-VqF13ccMXqi0UnUqkFZLDtuq6ngT44ZMhxw&s=10",
+    "name1": "Braves d'Atlanta",
+    "photo2": "https://logos-world.net/wp-content/uploads/2020/05/New-York-Mets-Logo1993-1998.png",
+    "name2": "Mets de New York",
     "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H10",
-    "date": "03/07/2026",
-    "pro": "Handicap: 1(3)"
+    "heure": "00H08",
+    "date": "05/07/2026",
+    "pro": "Total: (+6)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c3/Logo_Redbirds_de_Memphis.png",
-    "name1": "Redbirds de Memphis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1f/Knights_de_Charlotte_2023.png",
-    "name2": "Knights de Charlotte",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/langfr-250px-Chicago_Cubs_logo.svg.png",
+    "name1": "Chicago Cubs",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/ee/St_LouisCardinals.png",
+    "name2": "Cardinals de Saint-Louis",
     "champ": "Baseball. États-Unis. MLB",
-    "heure": "00H05",
-    "date": "04/07/2026",
+    "heure": "00H08",
+    "date": "05/07/2026",
     "pro": "Handicap: 2(3)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b0/Kansas_City_Royals.png",
+    "name1": "Royals de Kansas City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a2/PhiladelphiaPhillies_100.png",
+    "name2": "Phillies de Philadelphie",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "00H10",
+    "date": "05/07/2026",
+    "pro": "Total: (+7)"
   }
 ]
