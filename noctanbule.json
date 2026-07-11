@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://static.wikia.nocookie.net/icehockey/images/a/a2/Roanoke_Rail_Yard_Dawgs_2025.png/revision/latest/scale-to-width-down/250?cb=20250715201319",
-    "name1": "South Jersey Dawgs",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnyZMzsDZOYt58qz2FXouVu85So0Qved4Haf6cFOsVg&s=10",
-    "name2": "Beavers",
-    "champ": "Hockey sur glace. USA. UAHL",
-    "heure": "01H25",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGadFQGEIwq4KIGJzjr-Dx_uh4AhKQGyzz4utBhrVhQ&s",
+    "name1": "Atlanta United ll",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTIQChHZmkgWmjTl2eOl3sCLvIKxIwKOLpnjUs97Rbg&s=10",
+    "name2": "Inter Miami ll",
+    "champ": "États-Unis. MLS Next Pro",
+    "heure": "23H00",
     "date": "11/07/2026",
-    "pro": "Hadicap: 2(0)"
+    "pro": "V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrOWK575m7LnPGj-zDwEHqDvhI_VXs9-rtiwjEm56d2A&s=10",
-    "name1": "Berkut Volgograd",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbR_wBYt_aDWRlWbnap-RCAMaPd7cjmugBKEw9LZhmA&s=10",
-    "name2": "Atlant Orel",
-    "champ": "Hockey sur glace. RHL",
-    "heure": "02H50",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsOOgBjrpYl6LDiTn5TwIH026qASGkzlYREDmXKFzAw&s=10",
+    "name1": "Crown Legacy",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/96/New_York_City_FC_II_logo_2025.png",
+    "name2": "New York City ll",
+    "champ": "États-Unis. MLS Next Pro",
+    "heure": "23H00",
     "date": "11/07/2026",
-    "pro": "Total: (+7.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/20/Titans_de_Trenton.gif",
-    "name1": "Titan Bryansk",
-    "photo2": "https://encrypted-tbn0.gstatic.com/ibn:ANd9GcSs8yhFhfY-I5nSv2srEmdiJuJfByqSVCOrzTkBYcXnJg&s=1",
-    "name2": "Berkut Volograd",
-    "champ": "Hockey sur glace. RHL",
-    "heure": "04H20",
-    "date": "11/07/2026",
-    "pro": "Total: (+7.5)"
+    "pro": "Total: (+2.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/langfr-250px-Chicago_White_Sox.svg.png",
-    "name1": "White Sox de Chicago",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bcoQqoDkYTsZpj7xDypon6P449-9jppsEkJXBpfCmA&s",
-    "name2": "Athletics",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H40",
-    "date": "10/07/2026",
-    "pro": "Handicap: 2(3)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLtMlu-z_KfpaMbln9-fQN5ZZfeA_3G4mvfsggs6OqQ&s",
+    "name1": "Houston Dynamo ll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/7e/St._Louis_City_SC_II.png",
+    "name2": "St Louis City ll",
+    "champ": "États-Unis. MLS Next Pro",
+    "heure": "23H00",
+    "date": "11/07/2026",
+    "pro": "1X"
   },
     {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/05/New-York-Mets-Logo1993-1998.png",
-    "name1": "Mets de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Red-Sox-Logo-PNG.png",
-    "name2": "Red Sox de Boston",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H15",
-    "date": "10/07/2026",
-    "pro": "Total: (+6)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsaSTxTtXEFu0kfDWpZR05tLaFlY_YUC_KSpV1-vOrw&s=10",
+    "name1": "Rapids du Colorado ll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/North_Texas_SC_logo.svg/330px-North_Texas_SC_logo.svg.png",
+    "name2": "North Texas",
+    "champ": "États-Unis. MLS Next Pro",
+    "heure": "00H00",
+    "date": "12/07/2026",
+    "pro": "Total: (+2.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/1280px-Cincinnati_Reds_Logo.svg.png",
-    "name1": "Reds de Cincinnati",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/langfr-250px-Chicago_Cubs_logo.svg.png",
-    "name2": "Chicago Cubs",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H10",
-    "date": "11/07/2026",
-    "pro": "V1 Et TP(9.5) - NON"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Los_Angeles_FC_2.jpg",
+    "name1": "Los Angeles ll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Portland_Timbers_%28logo%29.svg/1280px-Portland_Timbers_%28logo%29.svg.png",
+    "name2": "Portland Timbers Ll",
+    "champ": "États-Unis. MLS Next Pro",
+    "heure": "02H00",
+    "date": "12/07/2026",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmU00COT-hpNtxK0ZZNHDMF6obLgqHZugx-Czprdv-g&s",
+    "name1": "Real Monarchs",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9IaM5L51HK1FDTteoEKLN3lwp2JOMuMDgaqNfiAT2ww&s=10",
+    "name2": "Whitecaps de Vancouver",
+    "champ": "États-Unis. MLS Next Pro",
+    "heure": "02H00",
+    "date": "12/07/2026",
+    "pro": "V1"
   }
 ]
