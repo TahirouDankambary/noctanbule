@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGadFQGEIwq4KIGJzjr-Dx_uh4AhKQGyzz4utBhrVhQ&s",
-    "name1": "Atlanta United ll",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTIQChHZmkgWmjTl2eOl3sCLvIKxIwKOLpnjUs97Rbg&s=10",
-    "name2": "Inter Miami ll",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/15/Austin_FC_logo.png",
+    "name1": "Austin ll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Minnesota_United_2_logo.png",
+    "name2": "Minnesota United ll",
     "champ": "États-Unis. MLS Next Pro",
-    "heure": "23H00",
-    "date": "11/07/2026",
-    "pro": "V1"
+    "heure": "00H30",
+    "date": "13/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsOOgBjrpYl6LDiTn5TwIH026qASGkzlYREDmXKFzAw&s=10",
-    "name1": "Crown Legacy",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/96/New_York_City_FC_II_logo_2025.png",
-    "name2": "New York City ll",
-    "champ": "États-Unis. MLS Next Pro",
-    "heure": "23H00",
-    "date": "11/07/2026",
-    "pro": "Total: (+2.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLtMlu-z_KfpaMbln9-fQN5ZZfeA_3G4mvfsggs6OqQ&s",
-    "name1": "Houston Dynamo ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/7e/St._Louis_City_SC_II.png",
-    "name2": "St Louis City ll",
-    "champ": "États-Unis. MLS Next Pro",
-    "heure": "23H00",
-    "date": "11/07/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsaSTxTtXEFu0kfDWpZR05tLaFlY_YUC_KSpV1-vOrw&s=10",
-    "name1": "Rapids du Colorado ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/North_Texas_SC_logo.svg/330px-North_Texas_SC_logo.svg.png",
-    "name2": "North Texas",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/San_Jose_Earthquakes_II_Logo.jpeg/250px-San_Jose_Earthquakes_II_Logo.jpeg",
+    "name1": "Quakes ll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Tacoma_Defiance_primary_logo.svg/1280px-Tacoma_Defiance_primary_logo.svg.png",
+    "name2": "Tacoma Defiance",
     "champ": "États-Unis. MLS Next Pro",
     "heure": "00H00",
     "date": "12/07/2026",
-    "pro": "Total: (+2.5)"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Los_Angeles_FC_2.jpg",
-    "name1": "Los Angeles ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Portland_Timbers_%28logo%29.svg/1280px-Portland_Timbers_%28logo%29.svg.png",
-    "name2": "Portland Timbers Ll",
-    "champ": "États-Unis. MLS Next Pro",
-    "heure": "02H00",
-    "date": "12/07/2026",
-    "pro": "12"
+    "pro": "1X"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmU00COT-hpNtxK0ZZNHDMF6obLgqHZugx-Czprdv-g&s",
-    "name1": "Real Monarchs",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9IaM5L51HK1FDTteoEKLN3lwp2JOMuMDgaqNfiAT2ww&s=10",
-    "name2": "Whitecaps de Vancouver",
-    "champ": "États-Unis. MLS Next Pro",
-    "heure": "02H00",
-    "date": "12/07/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Acereros_de_Monclova_logo.svg/1280px-Acereros_de_Monclova_logo.svg.png",
+    "name1": "Acereros de Monclova",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Logosaraperos.jpg",
+    "name2": "Saraperos de Saltillo",
+    "champ": "Baseball. Mexique. LMB",
+    "heure": "00H00",
+    "date": "13/07/2026",
+    "pro": "V2 Et TM(9.5) - NON"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logotipo_olmecas_tabasco_2024.svg/1280px-Logotipo_olmecas_tabasco_2024.svg.png",
+    "name1": "Olmecas de Tabasco",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/1f/Guerreros-Oaxaca.png",
+    "name2": "Guerreros de Oaxaca",
+    "champ": "Baseball. Mexique. LMB",
+    "heure": "00H00",
+    "date": "13/07/2026",
+    "pro": "Handicap: 2(2.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/26/Rojos_del_%C3%81guila_de_Veracruz.jpg",
+    "name1": "Rojos del Aguila de Veracruz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Leones_de_Yucat%C3%A1n_logo.svg/1280px-Leones_de_Yucat%C3%A1n_logo.svg.png",
+    "name2": "Leones de Yucatan",
+    "champ": "Baseball. Mexique. LMB",
+    "heure": "00H00",
+    "date": "13/07/2026",
+    "pro": "V1 Et TP(9.5) - OUI - NON"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/4e/PiratasdeCampeche.png",
+    "name1": "Pirates de Campeche",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EIauZIzN9sczka7g18q6vH4bhVkPcQ5lKolIH-FTug&s",
+    "name2": "Pericos de Puebla",
+    "champ": "Baseball. Mexique. LMB",
+    "heure": "00H15",
+    "date": "13/07/2026",
+    "pro": "Total: (+9)"
   }
 ]
