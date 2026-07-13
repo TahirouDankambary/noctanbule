@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/15/Austin_FC_logo.png",
-    "name1": "Austin ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Minnesota_United_2_logo.png",
-    "name2": "Minnesota United ll",
-    "champ": "États-Unis. MLS Next Pro",
-    "heure": "00H30",
-    "date": "13/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "httpswikimedia.org/wikipedia/fr/1/15/Austin_FC_logo.png",
+    "name1": "Gladiators UAHL",
+    "photo2": "hupload.wikimedia.org/wikipedia/commons/5/5f/Minnesota_United_2_logo.png",
+    "name2": "Chill UAHL",
+    "champ": "Hockey sur glace. USA. UAHL",
+    "heure": "00H10",
+    "date": "14/07/2026",
+    "pro": "Handicap: 2(0)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/San_Jose_Earthquakes_II_Logo.jpeg/250px-San_Jose_Earthquakes_II_Logo.jpeg",
-    "name1": "Quakes ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Tacoma_Defiance_primary_logo.svg/1280px-Tacoma_Defiance_primary_logo.svg.png",
-    "name2": "Tacoma Defiance",
-    "champ": "États-Unis. MLS Next Pro",
-    "heure": "00H00",
-    "date": "12/07/2026",
-    "pro": "1X"
+    "photo1": "htupload.wikimedia.org/wikipedia/en/thumb/f/fd/San_Jose_Earthquakes_II_Logo.jpeg/250px-San_Jose_Earthquakes_II_Logo.jpeg",
+    "name1": "Malty Ducks",
+    "photo2": "://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Tacoma_Defiance_primary_logo.svg/1280px-Tacoma_Defiance_primary_logo.svg.png",
+    "name2": "Hawks UAHL",
+    "champ": "Hockey sur glace. USA. UAHL",
+    "heure": "01H35",
+    "date": "14/07/2026",
+    "pro": "Total: (+7.5)"
+  },
+     {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrOWK575m7LnPGj-zDwEHqDvhI_VXs9-rtiwjEm56d2A&s=10",
+    "name1": "Berkut Volgograd",
+    "photo2": "]://upload.wikimedia.org/wikipedia/en/thumb/1/19/Leones_de_Yucat%C3%A1n_logo.svg/1280px-Leones_de_Yucat%C3%A1n_logo.svg.png",
+    "name2": "Atlant Orel",
+    "champ": "Hockey sur glace. RHL",
+    "heure": "02H50",
+    "date": "14/07/2026",
+    "pro": "Handicap: 1(1)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Acereros_de_Monclova_logo.svg/1280px-Acereros_de_Monclova_logo.svg.png",
-    "name1": "Acereros de Monclova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Logosaraperos.jpg",
-    "name2": "Saraperos de Saltillo",
-    "champ": "Baseball. Mexique. LMB",
-    "heure": "00H00",
-    "date": "13/07/2026",
-    "pro": "V2 Et TM(9.5) - NON"
+    "photo1": "htupload.wikimedia.org/wikipedia/en/4/4e/PiratasdeCampeche.png",
+    "name1": "HC Energetik",
+    "photo2": "htencrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EIauZIzN9sczka7g18q6vH4bhVkPcQ5lKolIH-FTug&s",
+    "name2": "HC Metallist",
+    "champ": "Hockey sur glace. RHL",
+    "heure": "02H50",
+    "date": "14/07/2026",
+    "pro": "Total: (+5.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logotipo_olmecas_tabasco_2024.svg/1280px-Logotipo_olmecas_tabasco_2024.svg.png",
-    "name1": "Olmecas de Tabasco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/1f/Guerreros-Oaxaca.png",
-    "name2": "Guerreros de Oaxaca",
-    "champ": "Baseball. Mexique. LMB",
-    "heure": "00H00",
-    "date": "13/07/2026",
-    "pro": "Handicap: 2(2.5)"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/26/Rojos_del_%C3%81guila_de_Veracruz.jpg",
-    "name1": "Rojos del Aguila de Veracruz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Leones_de_Yucat%C3%A1n_logo.svg/1280px-Leones_de_Yucat%C3%A1n_logo.svg.png",
-    "name2": "Leones de Yucatan",
-    "champ": "Baseball. Mexique. LMB",
-    "heure": "00H00",
-    "date": "13/07/2026",
-    "pro": "V1 Et TP(9.5) - OUI - NON"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/af/Nipponhamfighterslogo.png",
+    "name1": "Hokkaido Nippon Ham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Softbank_hawks_emblem.svg/1280px-Softbank_hawks_emblem.svg.png",
+    "name2": "Fukuoka Softbank Hawks",
+    "champ": "Baseball. Japon. NPB",
+    "heure": "04H00",
+    "date": "14/07/2026",
+    "pro": "Total: (+6)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/4e/PiratasdeCampeche.png",
-    "name1": "Pirates de Campeche",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EIauZIzN9sczka7g18q6vH4bhVkPcQ5lKolIH-FTug&s",
-    "name2": "Pericos de Puebla",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/8f/Tijuana_Toros_logo.png",
+    "name1": "Toros de Tijuana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/2d/Tecolotes_Dos_Laredos_logo.png",
+    "name2": "Tecolotes de los Dos",
     "champ": "Baseball. Mexique. LMB",
-    "heure": "00H15",
-    "date": "13/07/2026",
-    "pro": "Total: (+9)"
+    "heure": "02H35",
+    "date": "14/07/2026",
+    "pro": "Total: (+6)"
   }
 ]
