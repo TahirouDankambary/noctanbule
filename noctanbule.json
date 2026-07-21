@@ -1,62 +1,62 @@
 [
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNlXgw80bCe7jAKJND59hGFOjIaYFDzFRpJaP4qC2arQ&s=10",
-    "name1": "St Louis City ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Portland_Timbers_%28logo%29.svg/960px-Portland_Timbers_%28logo%29.svg.png",
-    "name2": "Portland Timbers",
-    "champ": "États-Unis. MLS Next Pro",
-    "heure": "23H00",
-    "date": "18/07/2026",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/05/Houston-Dynamo-Logo.png",
-    "name1": "Houston Dynamo ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8a/Colorado_Rapids_logo.png",
-    "name2": "Rapids du Colorado ll",
-    "champ": "États-Unis. MLS Next Pro",
-    "heure": "23H00",
-    "date": "18/07/2026",
-    "pro": "V1"
+ {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Clube_Atl%C3%A9tico_Mineiro_logo.svg/1920px-Clube_Atl%C3%A9tico_Mineiro_logo.svg.png",
+    "name1": "Clube Atlético Mineiro",
+    "photo2": "https://assets.football-logos.cc/logos/brazil/1500x1500/bahia.406c80c7.png",
+    "name2": "Bahia",
+    "champ": "Brésil. Série A",
+    "heure": "22H30",
+    "date": "21/07/2026",
+    "pro": "Total: (+2)"
   },
      {
-    "photo1": "https://newschannel9.com/resources/media2/16x9/909/1320/0x8/90/2f6c704b-8c5b-42c2-a8ee-5ca7cd06e9b4-chattanoogabrand.PNG",
-    "name1": "Chattanooga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Orlando_City_%28logo%29.svg/1280px-Orlando_City_%28logo%29.svg.png",
-    "name2": "Orlando City ll",
-    "champ": "États-Unis. MLS Next Pro",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/35/Escudo_Deportes_Tolima.png",
+    "name1": "Deportes Tolima",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2Gio_znnXIcolkboaCt_jFY6IVfhJlnlz_Ae0iIC6ZJ5Usgk6vT2b_w&s=10",
+    "name2": "Deportes Quindio",
+    "champ": "Coupe de Colombie",
     "heure": "23H00",
-    "date": "18/07/2026",
-    "pro": "Total: (+2.5)"
+    "date": "21/07/2026",
+    "pro": "V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Huntsville_City_FC_logo.svg/1280px-Huntsville_City_FC_logo.svg.png",
-    "name1": "Huntsville City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwBlbbTmihq8fjqDS3yu0Wmc4PaHNqXYDy3qEg3eCAcA&s=10",
-    "name2": "Atlanta United ll",
-    "champ": "États-Unis. MLS Next Pro",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Escudo_Deportivo_Pasto_2026.png",
+    "name1": "Deportivo Pasto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bogot%C3%A1_F%C3%BAtbol_Club.png",
+    "name2": "Bogotá",
+    "champ": "Coupe de Colombie",
     "heure": "00H00",
-    "date": "19/07/2026",
+    "date": "22/07/2026",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_Once_Caldas.png",
+    "name1": "Once Caldas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Logo_Envigado_FC.svg/1920px-Logo_Envigado_FC.svg.png",
+    "name2": "Envigado",
+    "champ": "Coupe de Colombie",
+    "heure": "00H00",
+    "date": "22/07/2026",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/2017.svg/langfr-250px-2017.svg.png",
+    "name1": "América Cali",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/REAL-CARTAGENA.png/250px-REAL-CARTAGENA.png",
+    "name2": "Corporacion Deportiva",
+    "champ": "Coupe de Colombie",
+    "heure": "00H30",
+    "date": "22/07/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVJkQTerN2XsCuK4Bk2lldKGEp48vupsScQxnfy6OeA&s=10",
+    "name1": "Universidad Central de Venezuela",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iNw_gdDubd0RFOZSJ4QrZbYsYoQNJUUiZBJjFwyUOA&s=10",
+    "name2": "Santos",
+    "champ": "Copa Sudamericana",
+    "heure": "00H30",
+    "date": "22/07/2026",
     "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7d/Ventura_County_FC_logo.png",
-    "name1": "Ventura County",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Logo_Los_Angeles_FC_2021.svg/960px-Logo_Los_Angeles_FC_2021.svg.png",
-    "name2": "Los Angeles ll",
-    "champ": "États-Unis. MLS Next Pro",
-    "heure": "02H00",
-    "date": "19/07/2026",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5aPY6-2x4gNKz316P29eKQtEOulLm14wPVf76pcLDGw&s=10",
-    "name1": "Quakes ll",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBYjuiHaQhOXdEK7MEOEQLB3EyxLUki6fdnhm8Dr73CQ&s=10",
-    "name2": "North Texas",
-    "champ": "États-Unis. MLS Next Pro",
-    "heure": "02H00",
-    "date": "19/07/2026",
-    "pro": "Total: (+2)"
   }
 ]
