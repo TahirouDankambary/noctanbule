@@ -1,62 +1,62 @@
 [
  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Clube_Atl%C3%A9tico_Mineiro_logo.svg/1920px-Clube_Atl%C3%A9tico_Mineiro_logo.svg.png",
-    "name1": "Clube Atlético Mineiro",
-    "photo2": "https://assets.football-logos.cc/logos/brazil/1500x1500/bahia.406c80c7.png",
-    "name2": "Bahia",
-    "champ": "Brésil. Série A",
-    "heure": "22H30",
-    "date": "21/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTIQChHZmkgWmjTl2eOl3sCLvIKxIwKOLpnjUs97Rbg&s=10",
+    "name1": "Inter Miami",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b9/Chicago_Fire_Logo_%282021%29.png",
+    "name2": "Fire de Chicago",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "22/07/2026",
+    "pro": "Total: (+2.5)"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/35/Escudo_Deportes_Tolima.png",
-    "name1": "Deportes Tolima",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2Gio_znnXIcolkboaCt_jFY6IVfhJlnlz_Ae0iIC6ZJ5Usgk6vT2b_w&s=10",
-    "name2": "Deportes Quindio",
-    "champ": "Coupe de Colombie",
-    "heure": "23H00",
-    "date": "21/07/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/2d/Columbus_Crew_logo_2021.png",
+    "name1": "Crew de Columbus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/8/85/New_York_City_FC.png",
+    "name2": "New York City",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "22/07/2026",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Escudo_Deportivo_Pasto_2026.png",
-    "name1": "Deportivo Pasto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bogot%C3%A1_F%C3%BAtbol_Club.png",
-    "name2": "Bogotá",
-    "champ": "Coupe de Colombie",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/New_England_Revolution_%28logo%2C_2021%29.svg/1280px-New_England_Revolution_%28logo%2C_2021%29.svg.png",
+    "name1": "Revolution de la Nouvelle-Angleterre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Toronto_FC_%28logo%29.svg/960px-Toronto_FC_%28logo%29.svg.png",
+    "name2": "Toronto",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
     "date": "22/07/2026",
-    "pro": "V1"
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_Once_Caldas.png",
-    "name1": "Once Caldas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Logo_Envigado_FC.svg/1920px-Logo_Envigado_FC.svg.png",
-    "name2": "Envigado",
-    "champ": "Coupe de Colombie",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtE-YkGiyGmTr0ZXIM_O0wVcocERAhuW5aDiSMYvuxQ&s=10",
+    "name1": "Union de Philadelphie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/New_York_Red_Bulls_%28logo%29.svg/960px-New_York_Red_Bulls_%28logo%29.svg.png",
+    "name2": "New York Red Bulls",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
     "date": "22/07/2026",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMzlnite4yCJg69JXWqpMZ4K9eTgczOCaRSuKxEwRBw&s=10",
+    "name1": "Cincinnati",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/92/Vancouver_Whitecaps_logo.png",
+    "name2": "Whitecaps de Vancouver",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "22/07/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Charlotte_FC_logo.svg/1280px-Charlotte_FC_logo.svg.png",
+    "name1": "Charlotte",
+    "photo2": "https://cdn.freebiesupply.com/images/large/2x/atlanta-united-fc-logo-transparent.png",
+    "name2": "Atlanta United",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "00H15",
+    "date": "23/07/2026",
     "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/2017.svg/langfr-250px-2017.svg.png",
-    "name1": "América Cali",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/REAL-CARTAGENA.png/250px-REAL-CARTAGENA.png",
-    "name2": "Corporacion Deportiva",
-    "champ": "Coupe de Colombie",
-    "heure": "00H30",
-    "date": "22/07/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVJkQTerN2XsCuK4Bk2lldKGEp48vupsScQxnfy6OeA&s=10",
-    "name1": "Universidad Central de Venezuela",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iNw_gdDubd0RFOZSJ4QrZbYsYoQNJUUiZBJjFwyUOA&s=10",
-    "name2": "Santos",
-    "champ": "Copa Sudamericana",
-    "heure": "00H30",
-    "date": "22/07/2026",
-    "pro": "2X"
   }
 ]
