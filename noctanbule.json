@@ -1,4 +1,14 @@
 [
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Logo_CF_Montr%C3%A9al_2023.svg/960px-Logo_CF_Montr%C3%A9al_2023.svg.png?_=20260104184022",
+    "name1": "CF Montreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Inter_Miami_CF_%28logo%29.svg/1280px-Inter_Miami_CF_%28logo%29.svg.png",
+    "name2": "Inter Miami",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "25/07/2026",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
  {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/New_York_Red_Bulls_%28logo%29.svg/960px-New_York_Red_Bulls_%28logo%29.svg.png",
     "name1": "New York Red Bulls",
@@ -28,16 +38,6 @@
     "heure": "23H30",
     "date": "25/07/2026",
     "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Logo_CF_Montr%C3%A9al_2023.svg/960px-Logo_CF_Montr%C3%A9al_2023.svg.png?_=20260104184022",
-    "name1": "CF Montreal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Inter_Miami_CF_%28logo%29.svg/1280px-Inter_Miami_CF_%28logo%29.svg.png",
-    "name2": "Inter Miami",
-    "champ": "Football. États-Unis. MLS",
-    "heure": "23H30",
-    "date": "25/07/2026",
-    "pro": "2X Et TP(1.5) - OUI"
   },
     {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/New_England_Revolution_%28logo%2C_2021%29.svg/1280px-New_England_Revolution_%28logo%2C_2021%29.svg.png",
