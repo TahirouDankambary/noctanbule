@@ -1,102 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/53/Detroit_Tigers_primary_logo_2016.png",
-    "name1": "Tigers de Détroit",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/cc/Orioles_new.PNG",
-    "name2": "Orioles de Baltimore",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H40",
-    "date": "27/07/2026",
-    "pro": "V2 Et TP(8.5) - NON"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Escudo_del_Club_Atl%C3%A9tico_Tigre_-_2019.svg/960px-Escudo_del_Club_Atl%C3%A9tico_Tigre_-_2019.svg.png",
+    "name1": "Club Atletico Tigre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Club_Nacional_de_Football%27s_logo.png",
+    "name2": "Club Nacional Montevideo",
+    "champ": "Football. Copa Sudamercana",
+    "heure": "22H00",
+    "date": "28/07/2026",
+    "pro": "1X"
   },
  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1mM6H73MyEUdu0e-WtzB-MBg_JPFd9F0QOfRqDyvfrLwxDKhU3eKk3IS&s=10",
-    "name1": "Marlins de Miami",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a2/PhiladelphiaPhillies_100.png",
-    "name2": "Phillies de Philadelphie",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H40",
-    "date": "27/07/2026",
-    "pro": "Total: (+6)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Santos_logo.svg/3840px-Santos_logo.svg.png",
+    "name1": "Santos",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVJkQTerN2XsCuK4Bk2lldKGEp48vupsScQxnfy6OeA&s=10",
+    "name2": "Universidad Central de Venezuela",
+    "champ": "Football. Copa Sudamercana",
+    "heure": "00H30",
+    "date": "29/07/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pittsburgh_Pirates_logo_2014.svg/langfr-250px-Pittsburgh_Pirates_logo_2014.svg.png",
-    "name1": "Pirates de Pittsburgh",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHqPPaQCnYGnzYEyLs6-_YQD-vWINNayvCCaRdQGGSpQ&s=10",
-    "name2": "Diamondback de l'Arizona",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H40",
-    "date": "27/07/2026",
-    "pro": "Handicap: 1(3)"
-  },
-    {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/05/Washington-Nationals-Emblem.png",
-    "name1": "Washington Nationals",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d2/TorontoBlueJays2012primary.png",
-    "name2": "Blue jays de Toronto",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H45",
-    "date": "27/07/2026",
-    "pro": "V2 Et TM(9.5) - NON"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1280px-New_York_Mets.svg.png",
-    "name1": "Mets de New York",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw748nWn8-m12-V0bWsH2-3oarZna7hwWnPhGkdQuGWg&s=10",
-    "name2": "Braves d'Atlanta",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H10",
-    "date": "27/07/2026",
-    "pro": "Handicap: 1(3)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/langfr-250px-Cincinnati_Reds_Logo.svg.png",
-    "name1": "Reds de Cincinnati",
-    "photo2": "https://content.sportslogos.net/logos/53/6804/full/cleveland_guardians_logo_alternate_2022_sportslogosnet-6589.png",
-    "name2": "Cleveland Guardians",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H10",
-    "date": "27/07/2026",
-    "pro": "V2 Et TP(8.5) - NON"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/500px-Chicago_White_Sox.svg.png",
-    "name1": "White Sox de Chicago",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/35/Yankees_logo.png",
-    "name2": "Yankees de New York",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H40",
-    "date": "27/07/2026",
-    "pro": "Handicap: 2(1.5)"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/ee/St_LouisCardinals.png",
-    "name1": "Cardinals de Saint-Louis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/250px-Chicago_Cubs_logo.svg.png",
-    "name2": "Chicago Cubs",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H45",
-    "date": "27/07/2026",
-    "pro": "Handicap: 1(3)"
-  },
-     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA1TFqJFtOjKy_LssTRZ6NIvWuWpSpciivpWv4AD55UA&s=10",
-    "name1": "Angels de Los Angeles",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Houston-Astros-Logo.svg/1280px-Houston-Astros-Logo.svg.png",
-    "name2": "Astros de Houston",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "01H38",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Escudo_del_Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro.svg/960px-Escudo_del_Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro.svg.png",
+    "name1": "San Lorenzo de Almagro",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Escudo_Club_Gimnasia_y_Esgrima_Mendoza.svg/960px-Escudo_Club_Gimnasia_y_Esgrima_Mendoza.svg.png",
+    "name2": "Gimnasia y Esgrima",
+    "champ": "Argentine. Primera Division",
+    "heure": "22H00",
     "date": "28/07/2026",
-    "pro": "Handicap: 1(3)"
+    "pro": "12"
   },
-     {
-    "photo1": "https://www.freelogovectors.net/wp-content/uploads/2024/02/oaklandathletics_logo-freelogovectors.net_.png",
-    "name1": "Athletics",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Red-Sox-Logo-PNG.png",
-    "name2": "Red Sox de Boston",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "01H40",
-    "date": "28/07/2026",
-    "pro": "Handicap: 2(1.5)"
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Escudo_de_la_Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors.svg/960px-Escudo_de_la_Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors.svg.png",
+    "name1": "Asociación Atlética Argentinos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg/960px-Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg.png",
+    "name2": "Estudiantes de Rio Cuarto",
+    "champ": "Argentine. Primera Division",
+    "heure": "00H15",
+    "date": "29/07/2026",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8MsDMbOAHZdjU3DjbaPuNng6zONDH_6j2fvt0TAObQ&s=10",
+    "name1": "Rosario Central",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYm7MyURg0KQVbzOkRVRc5Tr0c5mxyEZjxNmtk6SFDYqjn1ice24djUaMi&s=10",
+    "name2": "Racing Club de Avellaneda",
+    "champ": "Argentine. Primera Division",
+    "heure": "00H15",
+    "date": "29/07/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Fortaleza_Esporte_Clube_logo.png",
+    "name1": "Fortaleza EC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P5Q4VLdAgLvNmE0MS9CgIb4t7VD5w0ZIuZNvESrwRg&s=10",
+    "name2": "Botafogo Futebol Clube",
+    "champ": "Brazil. Campeonato Brasileiro",
+    "heure": "00H35",
+    "date": "29/07/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
