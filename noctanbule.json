@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Escudo_del_Club_Atl%C3%A9tico_Tigre_-_2019.svg/960px-Escudo_del_Club_Atl%C3%A9tico_Tigre_-_2019.svg.png",
-    "name1": "Club Atletico Tigre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Club_Nacional_de_Football%27s_logo.png",
-    "name2": "Club Nacional Montevideo",
-    "champ": "Football. Copa Sudamercana",
-    "heure": "22H00",
-    "date": "28/07/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNjtqYCurtkW2EW7lsFNFBmE8L--fFi5VK2M6o4j21ag&s",
+    "name1": "Coritiba",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/1280px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
+    "name2": "Cruzeiro Esporte",
+    "champ": "Football. Brésil. Série A",
+    "heure": "00H30",
+    "date": "31/07/2026",
+    "pro": "2X"
   },
  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Santos_logo.svg/3840px-Santos_logo.svg.png",
-    "name1": "Santos",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVJkQTerN2XsCuK4Bk2lldKGEp48vupsScQxnfy6OeA&s=10",
-    "name2": "Universidad Central de Venezuela",
-    "champ": "Football. Copa Sudamercana",
-    "heure": "00H30",
-    "date": "29/07/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Escudo_del_Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro.svg/960px-Escudo_del_Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro.svg.png",
-    "name1": "San Lorenzo de Almagro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Escudo_Club_Gimnasia_y_Esgrima_Mendoza.svg/960px-Escudo_Club_Gimnasia_y_Esgrima_Mendoza.svg.png",
-    "name2": "Gimnasia y Esgrima",
-    "champ": "Argentine. Primera Division",
-    "heure": "22H00",
-    "date": "28/07/2026",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Escudo_de_la_Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors.svg/960px-Escudo_de_la_Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors.svg.png",
-    "name1": "Asociación Atlética Argentinos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg/960px-Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg.png",
-    "name2": "Estudiantes de Rio Cuarto",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Escudo_del_Club_Atl%C3%A9tico_Independiente.svg/500px-Escudo_del_Club_Atl%C3%A9tico_Independiente.svg.png",
+    "name1": "CA Independiente Avellaneda",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqlVt5iyPMhR2LMedzeKkdW8RlDa4HJdQxGh8a05WOg&s=10",
+    "name2": "Newell'S Old Boys",
     "champ": "Argentine. Primera Division",
     "heure": "00H15",
-    "date": "29/07/2026",
+    "date": "31/07/2026",
+    "pro": "Total: (+1.5)"
+  },
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Escudo_del_Club_Central_C%C3%B3rdoba_de_Santiago_del_Estero._%281970s_created_logo%29.svg/960px-Escudo_del_Club_Central_C%C3%B3rdoba_de_Santiago_del_Estero._%281970s_created_logo%29.svg.png",
+    "name1": "Central Cordoba de Santiago",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxo84vcwrIrprj1jDHMG2D-CKbZM77-6pQe-WWQgeQWA&s",
+    "name2": "Atletico Tucuman",
+    "champ": "Argentine. Primera Division",
+    "heure": "00H15",
+    "date": "31/07/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https:-tbn0.gstatic.com/images?q=tbn:ANd9GcSBenmO25-xcgrpFHi-Pw5UErxusqBQr6N8EOvQE0AK5Q&s=10",
+    "name1": "Frogs",
+    "photo2": "https://uplo.org/wikipedia/commons/thumb/2/20/Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg/960px-Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg.png",
+    "name2": "Puck Daddys",
+    "champ": "Hockey sur glace. USA UAHL",
+    "heure": "00H30",
+    "date": "31/07/2026",
     "pro": "V1"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8MsDMbOAHZdjU3DjbaPuNng6zONDH_6j2fvt0TAObQ&s=10",
-    "name1": "Rosario Central",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYm7MyURg0KQVbzOkRVRc5Tr0c5mxyEZjxNmtk6SFDYqjn1ice24djUaMi&s=10",
-    "name2": "Racing Club de Avellaneda",
-    "champ": "Argentine. Primera Division",
-    "heure": "00H15",
-    "date": "29/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkpwV3Cxenw7a9NancLOvRLqB6E2LI8CeA3Zrjjes6g&s",
+    "name1": "SJ invaders",
+    "photo2": "https://e7.pngegg.com/pngimages/562/273/png-clipart-logo-wahl-clipper-barber-hairdresser-featurepics-wahl-text-logo.png",
+    "name2": "Warriors WAHL",
+    "champ": "Hockey sur glace. USA UAHL",
+    "heure": "01H55",
+    "date": "31/07/2026",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Fortaleza_Esporte_Clube_logo.png",
-    "name1": "Fortaleza EC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P5Q4VLdAgLvNmE0MS9CgIb4t7VD5w0ZIuZNvESrwRg&s=10",
-    "name2": "Botafogo Futebol Clube",
-    "champ": "Brazil. Campeonato Brasileiro",
-    "heure": "00H35",
-    "date": "29/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60EmVgjtHuqPbYOH_z-WxdJ4dIF3hv65XUy_P9mh26oVp3QFf9zLJHJk&s=10",
+    "name1": "Jersey Tropics",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxOSHcpy2r6FPGeF2g0HxCMe1GmYRZ-5W3gt5XBYyDey_a46V4BnfwPfp&s=10",
+    "name2": "Thunderkittens",
+    "champ": "Hockey sur glace. USA UAHL",
+    "heure": "02H05",
+    "date": "31/07/2026",
+    "pro": "Total: (+7.5)"
   }
 ]
