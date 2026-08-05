@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMSa-_a6o7Zam0V0VCfjk9Ezoef1EOa1neKYC7TkfgLA&s=10",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRu9YAamgJiybWV17DyWgaK4NMcGH3BcvxpxUJJh0wQ&s",
+    "name1": "Kickers de Richmond",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/New_York_Cosmos_2010.png",
+    "name2": "New York Cosmos",
+    "champ": "Football. États-Unis. USL League One",
+    "heure": "23H00",
+    "date": "05/08/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://www.fcnaples.com/wp-content/uploads/sites/254/2024/06/cropped-cropped-crest-2.png",
+    "name1": "Naples",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo_of_AV_Alta_FC.png",
+    "name2": "AV Alta",
+    "champ": "Football. États-Unis. USL League One",
+    "heure": "23H30",
+    "date": "05/08/2026",
+    "pro": "Total: (+2)"
+  },
+ {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/35/Yankees_logo.png",
+    "name1": "Yankees de New York",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/ee/St_LouisCardinals.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Cardinals de Saint-Louis",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H05",
+    "date": "05/08/2026",
+    "pro": "V2 Et TM(8.5) - NON"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Red-Sox-Logo-PNG.png",
+    "name1": "Red Sox de Boston",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/500px-Chicago_White_Sox.svg.png",
+    "name2": "White Sox de Chicago",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H10",
+    "date": "05/08/2026",
+    "pro": "Handicap: 2(3)"
+  },
+    {
+    "photo1": "https://content.sportslogos.net/logos/53/6804/full/cleveland_guardians_logo_alternate_2022_sportslogosnet-6589.png",
+    "name1": "Cleveland Guardians",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1280px-New_York_Mets.svg.png",
+    "name2": "Mets de New York",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "22H40",
+    "date": "05/08/2026",
+    "pro": "Total: (+6)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a2/PhiladelphiaPhillies_100.png",
     "name1": "Phillies de Philadelphie",
     "photo2": "https://logos-world.net/wp-content/uploads/2020/05/Washington-Nationals-Emblem.png",
     "name2": "Washington Nationals",
     "champ": "Baseball. États-Unis. MLB",
     "heure": "22H40",
-    "date": "03/08/2026",
+    "date": "05/08/2026",
     "pro": "V2 Et TM(9.5) - NON"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/35/Yankees_logo.png",
-    "name1": "Yankees de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/ee/St_LouisCardinals.png",
-    "name2": "Cardinals de Saint-Louis",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H05",
-    "date": "03/08/2026",
-    "pro": "Total: (+6)"
-  },
- {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/ab/Brewers_de_Milwaukee_2020.png",
-    "name1": "Brewers de Milwaukee",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pittsburgh_Pirates_logo_2014.svg/langfr-250px-Pittsburgh_Pirates_logo_2014.svg.png",
-    "name2": "Pirates de Pittsburgh",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H40",
-    "date": "03/08/2026",
-    "pro": "Handicap: 2(3)"
-  },
-    {
-    "photo1": "https://preview.redd.it/bullfrogs-team-help-which-logo-looks-best-which-location-v0-edk58xjf9ntd1.jpg?width=1024&format=pjpg&auto=webp&s=144487b4d0be9a800181b9cb7e57987414c071bd",
-    "name1": "Bullfrogs",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymr1R3Vgg2w25qQ1wE-4lHDMsn7MPlK1TIjpuVp-q-FPXFWcpDZVo_fpm&s=10",
-    "name2": "Chill UAHL",
-    "champ": "Hockey sur glace. USA. UAHL",
-    "heure": "00H10",
-    "date": "04/08/2026",
-    "pro": "V2"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTttLDxf3D1nYB4XMXjjaiO6-uPSo1JHahNR-fGe-JALQ&s=10",
-    "name1": "Central Cordoba de Santiago",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Escudo_del_Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro.svg/960px-Escudo_del_Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro.svg.png",
-    "name2": "San Lorenzo de Almagro",
-    "champ": "Argentine. Primera Division",
-    "heure": "00H15",
-    "date": "04/08/2026",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg/500px-Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg.png",
-    "name1": "Club Atletico Huracan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Escudo_del_Club_Atletico_Tucuman.svg/960px-Escudo_del_Club_Atletico_Tucuman.svg.png",
-    "name2": "Atletico Tucuman",
-    "champ": "Argentine. Primera Division",
-    "heure": "00H15",
-    "date": "04/08/2026",
-    "pro": "Total: (+1)"
   }
 ]
