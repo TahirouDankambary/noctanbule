@@ -1,62 +1,82 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRu9YAamgJiybWV17DyWgaK4NMcGH3BcvxpxUJJh0wQ&s",
-    "name1": "Kickers de Richmond",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/New_York_Cosmos_2010.png",
-    "name2": "New York Cosmos",
-    "champ": "Football. États-Unis. USL League One",
-    "heure": "23H00",
-    "date": "05/08/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://www.fcnaples.com/wp-content/uploads/sites/254/2024/06/cropped-cropped-crest-2.png",
-    "name1": "Naples",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo_of_AV_Alta_FC.png",
-    "name2": "AV Alta",
-    "champ": "Football. États-Unis. USL League One",
-    "heure": "23H30",
-    "date": "05/08/2026",
-    "pro": "Total: (+2)"
-  },
- {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/35/Yankees_logo.png",
-    "name1": "Yankees de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/ee/St_LouisCardinals.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Cardinals de Saint-Louis",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H05",
-    "date": "05/08/2026",
-    "pro": "V2 Et TM(8.5) - NON"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Red-Sox-Logo-PNG.png",
-    "name1": "Red Sox de Boston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/500px-Chicago_White_Sox.svg.png",
-    "name2": "White Sox de Chicago",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H10",
-    "date": "05/08/2026",
-    "pro": "Handicap: 2(3)"
-  },
-    {
-    "photo1": "https://content.sportslogos.net/logos/53/6804/full/cleveland_guardians_logo_alternate_2022_sportslogosnet-6589.png",
-    "name1": "Cleveland Guardians",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pittsburgh_Pirates_logo_2014.svg/langfr-250px-Pittsburgh_Pirates_logo_2014.svg.png",
+    "name1": "Pirates de Pittsburgh",
     "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1280px-New_York_Mets.svg.png",
     "name2": "Mets de New York",
     "champ": "Baseball. États-Unis. MLB",
     "heure": "22H40",
-    "date": "05/08/2026",
-    "pro": "Total: (+6)"
+    "date": "07/08/2026",
+    "pro": "V2 Et TP(8.5) - NON"
   },
-    {
+  {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a2/PhiladelphiaPhillies_100.png",
     "name1": "Phillies de Philadelphie",
-    "photo2": "https://logos-world.net/wp-content/uploads/2020/05/Washington-Nationals-Emblem.png",
-    "name2": "Washington Nationals",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d2/TorontoBlueJays2012primary.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Blue Jays de Toronto",
     "champ": "Baseball. États-Unis. MLB",
     "heure": "22H40",
-    "date": "05/08/2026",
-    "pro": "V2 Et TM(9.5) - NON"
+    "date": "07/08/2026",
+    "pro": "V2 Et TP(6.5) - NON"
+  },
+ {
+    "photo1": "https://logos-world.net/wp-content/uploads/2020/05/Washington-Nationals-Emblem.png",
+    "name1": "Washington Nationals",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/langfr-250px-Cincinnati_Reds_Logo.svg.png",
+    "name2": "Reds de Cincinnati",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "22H45",
+    "date": "07/08/2026",
+    "pro": "Handicap: 1(2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/35/Yankees_logo.png",
+    "name1": "Yankees de New York",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw748nWn8-m12-V0bWsH2-3oarZna7hwWnPhGkdQuGWg&s=10",
+    "name2": "Braves d'Atlanta",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H05",
+    "date": "07/08/2026",
+    "pro": "V1 Et TM(8.5) - NON"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Red-Sox-Logo-PNG.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Red Sox de Boston",
+    "photo2": "https://www.freelogovectors.net/wp-content/uploads/2024/02/oaklandathletics_logo-freelogovectors.net_.png",
+    "name2": "Athletics",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H10",
+    "date": "07/08/2026",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/ab/Brewers_de_Milwaukee_2020.png",
+    "name1": "Brewers de Milwaukee",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Minnesota_Twins_2023.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Twins de Minnesota",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H40",
+    "date": "07/08/2026",
+    "pro": "V2 Et TM(7.5) - NON"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/500px-Chicago_White_Sox.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "White Sox de Chicago",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cleveland_Guardians_wordmark_%E2%80%9CC%E2%80%9D_logo.png",
+    "name2": "Cleveland de Guardians",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H40",
+    "date": "07/08/2026",
+    "pro": "Handicap: 2(1.5)"
+  },
+    {
+    "photo1": "https://i.pinimg.com/736x/95/9d/5c/959d5c330e349b64df46a8e5f4e90d40.jpg",
+    "name1": "Marlins de Miami",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/960px-Los_Angeles_Angels_of_Anaheim.svg.png",
+    "name2": "Angels de Los Angeles",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H10",
+    "date": "07/08/2026",
+    "pro": "V2 Et TM(8.5) - NON"
   }
 ]
