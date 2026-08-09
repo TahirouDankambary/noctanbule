@@ -1,82 +1,72 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pittsburgh_Pirates_logo_2014.svg/langfr-250px-Pittsburgh_Pirates_logo_2014.svg.png",
-    "name1": "Pirates de Pittsburgh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1280px-New_York_Mets.svg.png",
-    "name2": "Mets de New York",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H40",
-    "date": "07/08/2026",
-    "pro": "V2 Et TP(8.5) - NON"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a2/PhiladelphiaPhillies_100.png",
-    "name1": "Phillies de Philadelphie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d2/TorontoBlueJays2012primary.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Blue Jays de Toronto",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H40",
-    "date": "07/08/2026",
-    "pro": "V2 Et TP(6.5) - NON"
-  },
- {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/05/Washington-Nationals-Emblem.png",
-    "name1": "Washington Nationals",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/langfr-250px-Cincinnati_Reds_Logo.svg.png",
-    "name2": "Reds de Cincinnati",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H45",
-    "date": "07/08/2026",
-    "pro": "Handicap: 1(2.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/35/Yankees_logo.png",
-    "name1": "Yankees de New York",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw748nWn8-m12-V0bWsH2-3oarZna7hwWnPhGkdQuGWg&s=10",
-    "name2": "Braves d'Atlanta",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H05",
-    "date": "07/08/2026",
-    "pro": "V1 Et TM(8.5) - NON"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Red-Sox-Logo-PNG.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Red Sox de Boston",
-    "photo2": "https://www.freelogovectors.net/wp-content/uploads/2024/02/oaklandathletics_logo-freelogovectors.net_.png",
-    "name2": "Athletics",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H10",
-    "date": "07/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLxcRlyrOhIJikOyfpo-zuHJzEyAe_LpPitaJdfBq5Q&s=10",
+    "name1": "Austin ll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sporting_Kansas_City_logo.svg/500px-Sporting_Kansas_City_logo.svg.png",
+    "name2": "Sporting Kansas City",
+    "champ": "Football. États-Unis. MLS Next Pro",
+    "heure": "00H30",
+    "date": "10/08/2026",
     "pro": "V1"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/ab/Brewers_de_Milwaukee_2020.png",
-    "name1": "Brewers de Milwaukee",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Minnesota_Twins_2023.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Twins de Minnesota",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H40",
-    "date": "07/08/2026",
-    "pro": "V2 Et TM(7.5) - NON"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Asociacion_Atletica_Argentinos_Juniors.svg/3840px-Asociacion_Atletica_Argentinos_Juniors.svg.png",
+    "name1": "Asociacion Atlética",
+    "photo2": "https://i.pinimg.com/1200x/e7/93/e0/e793e0ae38273eca210af153dd5e2d19.jpg",
+    "name2": "Racing Club de Avellaneda",
+    "champ": "Argentine. Primera Division",
+    "heure": "23H15",
+    "date": "09/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+ {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Caliente_de_Durango_logo.svg/1280px-Caliente_de_Durango_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Caliente de Durango",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f4/Acereros-Monclova.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Acereros de Monclova",
+    "champ": "Baseball. Mexique. LMB",
+    "heure": "23H00",
+    "date": "09/08/2026",
+    "pro": "V1 Et TP(11.5) - NON"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/500px-Chicago_White_Sox.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "White Sox de Chicago",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cleveland_Guardians_wordmark_%E2%80%9CC%E2%80%9D_logo.png",
-    "name2": "Cleveland de Guardians",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H40",
-    "date": "07/08/2026",
-    "pro": "Handicap: 2(1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/82/Logosultanes.jpg",
+    "name1": "Sultanes de Monterrey",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0rhpQjBlJGzBE16mPeWYqXkgevI1kRkhDGK0K-ZkPA&s=10",
+    "name2": "Charros de Jalisco",
+    "champ": "Baseball. Mexique. LMB",
+    "heure": "23H00",
+    "date": "09/08/2026",
+    "pro": "Total: (+7)"
   },
     {
-    "photo1": "https://i.pinimg.com/736x/95/9d/5c/959d5c330e349b64df46a8e5f4e90d40.jpg",
-    "name1": "Marlins de Miami",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/960px-Los_Angeles_Angels_of_Anaheim.svg.png",
-    "name2": "Angels de Los Angeles",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H10",
-    "date": "07/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logotipo_olmecas_tabasco_2024.svg/960px-Logotipo_olmecas_tabasco_2024.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Olmecas de Tabasco",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFAFw8E_beKevqvPGIdjFghxO_iKZfiZbdiaOtSpBxw&s=10",
+    "name2": "Bravos de Leon",
+    "champ": "Baseball. Mexique. LMB",
+    "heure": "00H00",
+    "date": "10/08/2026",
+    "pro": "Handicap: 2(2.5)"
+  },
+    {
+    "photo1": "https://i.pinimg.com/474x/30/2e/63/302e63ba430c9bcccafba7ad9a9cac29.jpg",
+    "name1": "Toros de Tijuana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/04/Algodoneros_de_Uni%C3%B3n_Laguna_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Algodoneros Union Laguna",
+    "champ": "Baseball. Mexique. LMB",
+    "heure": "00H05",
+    "date": "10/08/2026",
     "pro": "V2 Et TM(8.5) - NON"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPMww2r2l4oK2NZ9JHra4n5dkfnJ4UMmdcpOsczV5V7A&s=10",
+    "name1": "Pirates de Campeche",
+    "photo2": "https://i.pinimg.com/736x/49/c9/c8/49c9c85835ddd6dd5f68dcecdf83e701.jpg",
+    "name2": "Pericos de Puebla",
+    "champ": "Baseball. Mexique. LMB",
+    "heure": "00H15",
+    "date": "10/08/2026",
+    "pro": "Handicap: 1(3)"
   }
 ]
