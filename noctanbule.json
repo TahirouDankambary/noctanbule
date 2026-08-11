@@ -1,72 +1,72 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLxcRlyrOhIJikOyfpo-zuHJzEyAe_LpPitaJdfBq5Q&s=10",
-    "name1": "Austin ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sporting_Kansas_City_logo.svg/500px-Sporting_Kansas_City_logo.svg.png",
-    "name2": "Sporting Kansas City",
-    "champ": "Football. États-Unis. MLS Next Pro",
-    "heure": "00H30",
-    "date": "10/08/2026",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Asociacion_Atletica_Argentinos_Juniors.svg/3840px-Asociacion_Atletica_Argentinos_Juniors.svg.png",
-    "name1": "Asociacion Atlética",
-    "photo2": "https://i.pinimg.com/1200x/e7/93/e0/e793e0ae38273eca210af153dd5e2d19.jpg",
-    "name2": "Racing Club de Avellaneda",
-    "champ": "Argentine. Primera Division",
-    "heure": "23H15",
-    "date": "09/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fluminense_FC_escudo.png",
+    "name1": "Fluminense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Escudo_del_Club_Independiente_Rivadavia.svg/1280px-Escudo_del_Club_Independiente_Rivadavia.svg.png",
+    "name2": "Independiente Rivadavia",
+    "champ": "Football. Copa Libertadores",
+    "heure": "22H00",
+    "date": "11/08/2026",
     "pro": "Total: (+1.5)"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/250px-Boca_Juniors_logo18.svg.png",
+    "name1": "Boca Juniors",
+    "photo2": "https://assets.football-logos.cc/logos/paraguay/700x700/deportivo-recoleta.b1f1ef59.png",
+    "name2": "Deportivo Recoleta",
+    "champ": "Football. Copa Sudamericana",
+    "heure": "22H00",
+    "date": "11/08/2026",
+    "pro": "Total: (+2)"
+  },
  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Caliente_de_Durango_logo.svg/1280px-Caliente_de_Durango_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Caliente de Durango",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f4/Acereros-Monclova.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Acereros de Monclova",
-    "champ": "Baseball. Mexique. LMB",
-    "heure": "23H00",
-    "date": "09/08/2026",
-    "pro": "V1 Et TP(11.5) - NON"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Escudo_de_Club_Bol%C3%ADvar.svg/1920px-Escudo_de_Club_Bol%C3%ADvar.svg.png",
+    "name1": "Bolivar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/500px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png",
+    "name2": "Sao Paulo",
+    "champ": "Football. Copa Sudamericana",
+    "heure": "00H30",
+    "date": "12/08/2026",
+    "pro": "12"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/82/Logosultanes.jpg",
-    "name1": "Sultanes de Monterrey",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0rhpQjBlJGzBE16mPeWYqXkgevI1kRkhDGK0K-ZkPA&s=10",
-    "name2": "Charros de Jalisco",
-    "champ": "Baseball. Mexique. LMB",
-    "heure": "23H00",
-    "date": "09/08/2026",
-    "pro": "Total: (+7)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logotipo_olmecas_tabasco_2024.svg/960px-Logotipo_olmecas_tabasco_2024.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Olmecas de Tabasco",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFAFw8E_beKevqvPGIdjFghxO_iKZfiZbdiaOtSpBxw&s=10",
-    "name2": "Bravos de Leon",
-    "champ": "Baseball. Mexique. LMB",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpZpAUehs1rcDatDi6stTUnB11R27FykmORGW8wDcDQ&s=10",
+    "name1": "Deportivo Plaza Amador",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Xelaju_MC_%28logo%29.svg/1280px-Xelaju_MC_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Xelaju",
+    "champ": "Amerique Centrale CONCACAF",
     "heure": "00H00",
-    "date": "10/08/2026",
-    "pro": "Handicap: 2(2.5)"
+    "date": "12/08/2026",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://i.pinimg.com/474x/30/2e/63/302e63ba430c9bcccafba7ad9a9cac29.jpg",
-    "name1": "Toros de Tijuana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/04/Algodoneros_de_Uni%C3%B3n_Laguna_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Algodoneros Union Laguna",
-    "champ": "Baseball. Mexique. LMB",
-    "heure": "00H05",
-    "date": "10/08/2026",
-    "pro": "V2 Et TM(8.5) - NON"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Escudo_del_Deportivo_Saprissa.png",
+    "name1": "Deportivo Saprissa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/lt/3/3b/Deportivo_Mixco_sp_emblema.png",
+    "name2": "Deportivo Mixco",
+    "champ": "Amerique Centrale CONCACAF",
+    "heure": "02H00",
+    "date": "12/08/2026",
+    "pro": "V1"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPMww2r2l4oK2NZ9JHra4n5dkfnJ4UMmdcpOsczV5V7A&s=10",
-    "name1": "Pirates de Campeche",
-    "photo2": "https://i.pinimg.com/736x/49/c9/c8/49c9c85835ddd6dd5f68dcecdf83e701.jpg",
-    "name2": "Pericos de Puebla",
-    "champ": "Baseball. Mexique. LMB",
-    "heure": "00H15",
-    "date": "10/08/2026",
-    "pro": "Handicap: 1(3)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNdf4MJoR861c943oxH2nSM6qKR0hHlq_LlXXGcMezUg&s=10",
+    "name1": "Real Esteli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alianza_FC_%28El_Salvador%29_logo.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "name2": "Alianza San Salvador",
+    "champ": "Amerique Centrale CONCACAF",
+    "heure": "02H00",
+    "date": "12/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ava%C3%AD_Futebol_Clube_logo.svg/1920px-Ava%C3%AD_Futebol_Clube_logo.svg.png",
+    "name1": "Avai",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/CRB_logo.svg/500px-CRB_logo.svg.png",
+    "name2": "CRB Maceio",
+    "champ": "Football. Brazil. Campeonato B",
+    "heure": "22H30",
+    "date": "11/08/2026",
+    "pro": "12"
   }
 ]
