@@ -1,72 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fluminense_FC_escudo.png",
-    "name1": "Fluminense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Escudo_del_Club_Independiente_Rivadavia.svg/1280px-Escudo_del_Club_Independiente_Rivadavia.svg.png",
-    "name2": "Independiente Rivadavia",
-    "champ": "Football. Copa Libertadores",
-    "heure": "22H00",
-    "date": "11/08/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/250px-Boca_Juniors_logo18.svg.png",
-    "name1": "Boca Juniors",
-    "photo2": "https://assets.football-logos.cc/logos/paraguay/700x700/deportivo-recoleta.b1f1ef59.png",
-    "name2": "Deportivo Recoleta",
-    "champ": "Football. Copa Sudamericana",
-    "heure": "22H00",
-    "date": "11/08/2026",
-    "pro": "Total: (+2)"
-  },
- {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Escudo_de_Club_Bol%C3%ADvar.svg/1920px-Escudo_de_Club_Bol%C3%ADvar.svg.png",
-    "name1": "Bolivar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/500px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png",
-    "name2": "Sao Paulo",
-    "champ": "Football. Copa Sudamericana",
-    "heure": "00H30",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTIQChHZmkgWmjTl2eOl3sCLvIKxIwKOLpnjUs97Rbg&s=10",
+    "name1": "Inter Miami",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Club_Le%C3%B3n_%28logo%29.svg/960px-Club_Le%C3%B3n_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20200612134016",
+    "name2": "Leon",
+    "champ": "Amérique du Nord. Coupe de la Ligue",
+    "heure": "23H30",
     "date": "12/08/2026",
+    "pro": "1X"
+  },
+     {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiLe_KojziZhKaTeMznH0ABY97W--ZVFYq-sGLWRGv9Q&s=10",
+    "name1": "Orlando City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/Atl%C3%A9tico_San_Luis_%28logo%29.svg/960px-Atl%C3%A9tico_San_Luis_%28logo%29.svg.png",
+    "name2": "Atletico San Luis",
+    "champ": "Amérique du Nord. Coupe de la Ligue",
+    "heure": "23H30",
+    "date": "12/08/2026",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a8/Club_de_F%C3%BAtbol_Monterrey.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Monterrey",
+    "photo2": "https://images.seeklogo.com/logo-png/42/1/nashville-sc-2020-logo-png_seeklogo-425337.png",
+    "name2": "Nashville",
+    "champ": "Amérique du Nord. Coupe de la Ligue",
+    "heure": "00H00",
+    "date": "13/08/2026",
     "pro": "12"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpZpAUehs1rcDatDi6stTUnB11R27FykmORGW8wDcDQ&s=10",
-    "name1": "Deportivo Plaza Amador",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Xelaju_MC_%28logo%29.svg/1280px-Xelaju_MC_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Xelaju",
-    "champ": "Amerique Centrale CONCACAF",
-    "heure": "00H00",
-    "date": "12/08/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Escudo_del_Deportivo_Saprissa.png",
-    "name1": "Deportivo Saprissa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/lt/3/3b/Deportivo_Mixco_sp_emblema.png",
-    "name2": "Deportivo Mixco",
-    "champ": "Amerique Centrale CONCACAF",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Club_Toluca_Logo.svg/3840px-Club_Toluca_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Deportivo Toluca",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_FC_Dallas.svg/960px-Logo_FC_Dallas.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20241208175913",
+    "name2": "Dallas",
+    "champ": "Amérique du Nord. Coupe de la Ligue",
     "heure": "02H00",
-    "date": "12/08/2026",
-    "pro": "V1"
+    "date": "13/08/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Logo_Los_Angeles_FC_2021.svg/960px-Logo_Los_Angeles_FC_2021.svg.png",
+    "name1": "Los Angeles",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9j8qu59L5jeyTIXz6tRncnncNQY3hR0R3LSwcsMy_aQ&s=10",
+    "name2": "Queretaro",
+    "champ": "Amérique du Nord. Coupe de la Ligue",
+    "heure": "02H30",
+    "date": "13/08/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNdf4MJoR861c943oxH2nSM6qKR0hHlq_LlXXGcMezUg&s=10",
-    "name1": "Real Esteli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alianza_FC_%28El_Salvador%29_logo.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-    "name2": "Alianza San Salvador",
-    "champ": "Amerique Centrale CONCACAF",
-    "heure": "02H00",
-    "date": "12/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ava%C3%AD_Futebol_Clube_logo.svg/1920px-Ava%C3%AD_Futebol_Clube_logo.svg.png",
-    "name1": "Avai",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/CRB_logo.svg/500px-CRB_logo.svg.png",
-    "name2": "CRB Maceio",
-    "champ": "Football. Brazil. Campeonato B",
-    "heure": "22H30",
-    "date": "11/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiURXgA6oKsMSdRsUlh9Np-BVQsPy69d_37bZmlLuguA&s=10",
+    "name1": "Sounders de Seattle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/Logo_CD_Guadalajara_%28Chivas%29_2020.svg/langfr-250px-Logo_CD_Guadalajara_%28Chivas%29_2020.svg.png",
+    "name2": "Guadalajara",
+    "champ": "Amérique du Nord. Coupe de la Ligue",
+    "heure": "02H30",
+    "date": "13/08/2026",
     "pro": "12"
   }
 ]
