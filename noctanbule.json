@@ -1,62 +1,102 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTIQChHZmkgWmjTl2eOl3sCLvIKxIwKOLpnjUs97Rbg&s=10",
-    "name1": "Inter Miami",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Club_Le%C3%B3n_%28logo%29.svg/960px-Club_Le%C3%B3n_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20200612134016",
-    "name2": "Leon",
-    "champ": "Amérique du Nord. Coupe de la Ligue",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwBlbbTmihq8fjqDS3yu0Wmc4PaHNqXYDy3qEg3eCAcA&s=10",
+    "name1": "Atlanta United",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXvDF5cf8xShMi_B9YPXTqjfBWjKOmhAvFOsmcY2NwYg&s=10",
+    "name2": "New York Red Bulls",
+    "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
-    "date": "12/08/2026",
-    "pro": "1X"
+    "date": "15/08/2026",
+    "pro": "12"
   },
      {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiLe_KojziZhKaTeMznH0ABY97W--ZVFYq-sGLWRGv9Q&s=10",
-    "name1": "Orlando City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/Atl%C3%A9tico_San_Luis_%28logo%29.svg/960px-Atl%C3%A9tico_San_Luis_%28logo%29.svg.png",
-    "name2": "Atletico San Luis",
-    "champ": "Amérique du Nord. Coupe de la Ligue",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-RjEGGki_7F06HUYOfCv7I_TsupfAVgREI4MxPKjMQQ&s=10",
+    "name1": "CF Montreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_D.C.United.svg/1280px-Logo_D.C.United.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "DC United",
+    "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
-    "date": "12/08/2026",
+    "date": "15/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Orlando_City_%28logo%29.svg/960px-Orlando_City_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20200529011829",
+    "name1": "Orlando City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMzlnite4yCJg69JXWqpMZ4K9eTgczOCaRSuKxEwRBw&s=10",
+    "name2": "Cincinnati",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "15/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplK7EnW1wk_64x31Vu4elhrj9_mNXYcvkp9YoXJu0qw&s=10",
+    "name1": "Toronto",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsaRVDQ9sEgUWJYBEkxGVeBopucQLyTaNIy7YQAatuOQ&s",
+    "name2": "Revolution de la Nouvelle-Angleterre",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "15/08/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3YHBvGKNZXeYW0AEa3t0B8Gmlr-r8Z0OZ4tMafPpHA&s=10",
+    "name1": "Charlotte",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDFX1qtA2STgvca2Z9Ok_AgfC2pvhlA0XC7oSFk6dyw&s=10",
+    "name2": "Crew de Columbus",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "15/08/2026",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1QXs2eY5vRe24SFp15ibSOmvcs1JhMTAyoLcJil71uQ&s=10",
+    "name1": "Dynamo de Houston",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPORH_5J4VVnA9PrUCjYxYw0MsuyLRc-cXGO1mHtoW3A&s=10",
+    "name2": "Galaxy de Los Angeles",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "00H30",
+    "date": "16/08/2026",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://images.seeklogo.com/logo-png/42/1/nashville-sc-2020-logo-png_seeklogo-425337.png",
+    "name1": "Nashville",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Inter_Miami_CF_%28logo%29.svg/1280px-Inter_Miami_CF_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Inter Miami",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "00H30",
+    "date": "16/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCE4ccoNWVOvvaH7nYfAXRWLqrxvD67aMBQmQDSxW7w&s=10",
+    "name1": "Rapids de Colorado",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-Fk9I2pvmuoWcWZUXb04q-bF05l5ucDqgtwQd44gLA&s=10",
+    "name2": "Sporting de Kansas City",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "01H30",
+    "date": "16/08/2026",
     "pro": "Total: (+2.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a8/Club_de_F%C3%BAtbol_Monterrey.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Monterrey",
-    "photo2": "https://images.seeklogo.com/logo-png/42/1/nashville-sc-2020-logo-png_seeklogo-425337.png",
-    "name2": "Nashville",
-    "champ": "Amérique du Nord. Coupe de la Ligue",
-    "heure": "00H00",
-    "date": "13/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Jwan6aSk2nMDeP-PvTJ5kSdKhX6XJJ3G08zy6YDCuw&s=10",
+    "name1": "Real Salt Lake",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFz1AT-wHaknQI4fed5YkyiYIAxvxP6ZRfaWZYe7QKg&s=10",
+    "name2": "Minnesota United",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "01H30",
+    "date": "16/08/2026",
     "pro": "12"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Club_Toluca_Logo.svg/3840px-Club_Toluca_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Deportivo Toluca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_FC_Dallas.svg/960px-Logo_FC_Dallas.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20241208175913",
-    "name2": "Dallas",
-    "champ": "Amérique du Nord. Coupe de la Ligue",
-    "heure": "02H00",
-    "date": "13/08/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Logo_Los_Angeles_FC_2021.svg/960px-Logo_Los_Angeles_FC_2021.svg.png",
-    "name1": "Los Angeles",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9j8qu59L5jeyTIXz6tRncnncNQY3hR0R3LSwcsMy_aQ&s=10",
-    "name2": "Queretaro",
-    "champ": "Amérique du Nord. Coupe de la Ligue",
+   {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkO-zo8CSQt6mmWkztah63MurqxqnW_LrPO3RZJATgIQ&s=10",
+    "name1": "Earthquakes de San José",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFCWH5asDG66jyRieK6BWNc0ZqAYlToprcC6_4dHmXPA&s=10",
+    "name2": "St.Louis City",
+    "champ": "Football. États-Unis. MLS",
     "heure": "02H30",
-    "date": "13/08/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiURXgA6oKsMSdRsUlh9Np-BVQsPy69d_37bZmlLuguA&s=10",
-    "name1": "Sounders de Seattle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/Logo_CD_Guadalajara_%28Chivas%29_2020.svg/langfr-250px-Logo_CD_Guadalajara_%28Chivas%29_2020.svg.png",
-    "name2": "Guadalajara",
-    "champ": "Amérique du Nord. Coupe de la Ligue",
-    "heure": "02H30",
-    "date": "13/08/2026",
-    "pro": "12"
+    "date": "16/08/2026",
+    "pro": "Total: (+2.5)"
   }
 ]
