@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtE-YkGiyGmTr0ZXIM_O0wVcocERAhuW5aDiSMYvuxQ&s=10",
-    "name1": "Union de Philadelphie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Inter_Miami_CF_%28logo%29.svg/1280px-Inter_Miami_CF_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Inter Miami",
-    "champ": "Football. États-Unis. MLS",
-    "heure": "23H30",
-    "date": "19/08/2026",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_D.C.United.svg/960px-Logo_D.C.United.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "D.C.United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/New_England_Revolution_%28logo%2C_2021%29.svg/1280px-New_England_Revolution_%28logo%2C_2021%29.svg.png",
-    "name2": "Nouvelle Angleterre",
-    "champ": "Football. États-Unis. MLS",
-    "heure": "23H30",
-    "date": "19/08/2026",
-    "pro": "12"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/2d/Columbus_Crew_logo_2021.png",
-    "name1": "Crew de Columbus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Logo_CF_Montr%C3%A9al_2023.svg/1280px-Logo_CF_Montr%C3%A9al_2023.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "CF Montreal",
-    "champ": "Football. États-Unis. MLS",
-    "heure": "23H30",
-    "date": "19/08/2026",
-    "pro": "Total: (+2)"
-  },
-    {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/New_York_Red_Bulls_%28logo%29.svg/960px-New_York_Red_Bulls_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
     "name1": "New York Red Bulls",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Nashville_SC_logo%2C_2020.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Nashville",
-    "champ": "Football. États-Unis. MLS",
-    "heure": "23H30",
-    "date": "19/08/2026",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Orlando_City_%28logo%29.svg/1280px-Orlando_City_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Orlando City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b9/Chicago_Fire_Logo_%282021%29.png",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b9/Chicago_Fire_Logo_%282021%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
     "name2": "Fire de Chicago",
     "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
-    "date": "19/08/2026",
-    "pro": "2X"
+    "date": "22/08/2026",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Orlando_City_%28logo%29.svg/960px-Orlando_City_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20200529011829",
+    "name1": "Orlando City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Jwan6aSk2nMDeP-PvTJ5kSdKhX6XJJ3G08zy6YDCuw&s=10",
+    "name2": "Real Salt Lake",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "22/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Toronto_FC_%28logo%29.svg/960px-Toronto_FC_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Toronto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Charlotte_FC_logo.svg/960px-Charlotte_FC_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Charlotte",
-    "champ": "Football. États-Unis. MLS",
-    "heure": "23H30",
-    "date": "19/08/2026",
-    "pro": "Total: (+2)"
-  },
-    {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7b/Logo_FC_Cincinnati_2024.svg/960px-Logo_FC_Cincinnati_2024.svg.png",
     "name1": "Cincinnati",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM53fPcGjsC8eQ07asFw_zepS2UJz3BenGglTGHUN7qQ&s=10",
-    "name2": "New York City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_des_Seattle_Sounders_%282024%29.svg/3840px-Logo_des_Seattle_Sounders_%282024%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Sounders de Seattle",
     "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
-    "date": "19/08/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Sporting_Kansas_City.svg/langfr-250px-Sporting_Kansas_City.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Sporting de Kansas City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/St._Louis_City_SC_logo.png/960px-St._Louis_City_SC_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "St.Louis City",
-    "champ": "Football. États-Unis. MLS",
-    "heure": "00H00",
-    "date": "20/08/2026",
-    "pro": "Total: (+2)"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFz1AT-wHaknQI4fed5YkyiYIAxvxP6ZRfaWZYe7QKg&s=10",
-    "name1": "Minnesota United",
-    "photo2": "https://cdn.freebiesupply.com/images/large/2x/atlanta-united-fc-logo-transparent.png",
-    "name2": "Atlanta United",
-    "champ": "Football. États-Unis. MLS",
-    "heure": "00H30",
-    "date": "20/08/2026",
+    "date": "22/08/2026",
     "pro": "12"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Inter_Miami_CF_%28logo%29.svg/1280px-Inter_Miami_CF_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Inter Miami",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Toronto_FC_%28logo%29.svg/960px-Toronto_FC_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Toronto",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "22/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Logo_CF_Montr%C3%A9al_2023.svg/1280px-Logo_CF_Montr%C3%A9al_2023.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "CF Montreal",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPORH_5J4VVnA9PrUCjYxYw0MsuyLRc-cXGO1mHtoW3A&s=10",
+    "name2": "Galaxy de Los Angeles",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "22/08/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Charlotte_FC_logo.svg/960px-Charlotte_FC_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Charlotte",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_D.C.United.svg/960px-Logo_D.C.United.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "DC United",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "22/08/2026",
+    "pro": "Total: (+2)"
+  },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Jwan6aSk2nMDeP-PvTJ5kSdKhX6XJJ3G08zy6YDCuw&s=10",
-    "name1": "Real Salt Lake",
+    "photo1": "https://images.seeklogo.com/logo-png/42/1/nashville-sc-2020-logo-png_seeklogo-425337.png",
+    "name1": "Nashville",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/2d/Columbus_Crew_logo_2021.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Crew de Columbus",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "00H30",
+    "date": "23/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/St._Louis_City_SC_logo.png/960px-St._Louis_City_SC_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "St.Louis City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5a/Houston_Dynamo_FC_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Dynamo de Houston",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "00H30",
+    "date": "23/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/15/Austin_FC_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Austin",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtE-YkGiyGmTr0ZXIM_O0wVcocERAhuW5aDiSMYvuxQ&s=10",
+    "name2": "Union de Philadelphie",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "01H00",
+    "date": "23/08/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2OYK_uUiGQ12Rz39_bnVKvhFE2cEEQwykunLHppl6sQ&s=10",
+    "name1": "Whitecaps de Vancouver",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_FC_Dallas.svg/960px-Logo_FC_Dallas.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20241208175913",
     "name2": "Dallas",
     "champ": "Football. États-Unis. MLS",
     "heure": "01H30",
-    "date": "20/08/2026",
+    "date": "23/08/2026",
     "pro": "Total: (+2)"
   }
 ]
