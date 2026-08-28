@@ -1,62 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/53/Detroit_Tigers_primary_logo_2016.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Tigers de Détroit",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1cXFzDt1N9uAcapbINjii4FE7k4FnqfMls384yxs17w&s=10",
-    "name2": "Tampa Bay Rays",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H40",
-    "date": "24/08/2026",
-    "pro": "Total: (+6)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/2f/Atlante_FC_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Atlante",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Club_Le%C3%B3n_%28logo%29.svg/960px-Club_Le%C3%B3n_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20200612134016",
+    "name2": "Leon",
+    "champ": "Football. Mexique. Ligue MX",
+    "heure": "01H00",
+    "date": "29/08/2026",
+    "pro": "12"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTTxAh7uxzgclSTuUNNJ67P2MHZDfaEfncvvfH0FWVsQ&s=10",
-    "name1": "Marlins de Miami",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4E-Y51xcWQmBy4cS4hHt4ZqCt7taKMWqQ1Dh0YRxkyA&s=10",
-    "name2": "Red Sox de Boston",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H40",
-    "date": "24/08/2026",
-    "pro": "Handicap: 1(3)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/37/Club_Necaxa_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Club Necaxa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/38/Escudo_del_Cruz_Azul_AC.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Cruz Azul",
+    "champ": "Football. Mexique. Ligue MX",
+    "heure": "01H00",
+    "date": "29/08/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3rEujG2rT5yUwFVN8BOACluojz38X-zAHVAugFOb6w&s=10",
-    "name1": "Washington Nationals",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Club_Tijuana_%28logo%29.svg/1920px-Club_Tijuana_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Tijuana",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN8fmwnF8QSBcGH-vkE6VspAZhOABlkFXmE9UNycd6qw&s=10",
+    "name2": "Pumas UNAM",
+    "champ": "Football. Mexique. Ligue MX",
+    "heure": "03H10",
+    "date": "29/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9e/ACF_Zapotlanejo_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "ACF Zapotlanejo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/3c/Guerreros_de_Autlan_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Guerreros de Autlan",
+    "champ": "Football. Mexique. Liga Premier",
+    "heure": "01H30",
+    "date": "29/08/2026",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://assets.football-logos.cc/logos/ecuador/1500x1500/tecnico-universitario.1cceb2ca.png",
+    "name1": "Técnico Universitario",
+    "photo2": "https://assets.football-logos.cc/logos/ecuador/700x700/deportivo-cuenca.3a3a17f4.png",
+    "name2": "Deportivo Cuenca",
+    "champ": "Football. Championnat d'Équateur",
+    "heure": "00H00",
+    "date": "29/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9l_ZmLxYb5TppQOuMejusy3cN6xDZxZy05zqvR5cW5Q&s=10",
+    "name1": "Blue Jays de Toronto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f3/SeattleMariners_100.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Mariners de Seattle",
+    "champ": "Baseball. États-Unis. MLB",
+    "heure": "23H15",
+    "date": "28/08/2026",
+    "pro": "Total: (+5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8H9pSCKQPKAe13HnTz25pvr9v5ChVKibVEuvXj1fVA&s=10",
+    "name1": "Braves d'Atlanta",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrxu3HfHZcfOeIxUNudwHK-c9ppmZsjJnuj7wv6eroA&s=10",
     "name2": "Rockies du Colorado",
     "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H45",
-    "date": "24/08/2026",
-    "pro": "V2 Et TP(7.5) - OUI"
+    "heure": "23H15",
+    "date": "28/08/2026",
+    "pro": "Handicap: 1(1.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/langfr-250px-Chicago_White_Sox.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "White Sox de Chicago",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdSp8nHi3MKqk1fMcFaPYZNmF_OIypcJ7-sHmh2gRXA&s=10",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/ab/Brewers_de_Milwaukee_2020.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Brewers de Milwaukee",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Texas_Rangers_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "name2": "Texas Rangers",
     "champ": "Baseball. États-Unis. MLB",
     "heure": "23H40",
-    "date": "24/08/2026",
-    "pro": "Handicap: 2(2.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6P2NPQC-zPQg6MQIfjQWh_Zpq5z97FCWgQWsvr653uw&s=10",
-    "name1": "Guerreros de Oaxaca",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu76CLjokhb6nDTnez0ySgHoeSHXuHpoWzUoltHgoFWw&s",
-    "name2": "Olmecas de Tabasco",
-    "champ": "Baseball. Mexique. LMB",
-    "heure": "01H00",
-    "date": "25/08/2026",
-    "pro": "Handicap: 1(3)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dWwZXlPiKhNGXqgJG8vNu7PchVCmfDt5s8T2WHlt3A&s=10",
-    "name1": "Pericos de Puebla",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVPfdT-PBPcZRh36mmA8io4rnqwKZG3yzTH4u0aG_LjnIS-NiGqOWP5ero&s=10",
-    "name2": "Diablos Rojos del Mexico",
-    "champ": "Baseball. Mexique. LMB",
-    "heure": "01H00",
-    "date": "25/08/2026",
-    "pro": "Handicap: 2(1)"
+    "date": "28/08/2026",
+    "pro": "Handicap: 1(1.5)"
   }
 ]
