@@ -1,93 +1,102 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cleveland_Guardians_wordmark_%E2%80%9CC%E2%80%9D_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Cleveland Guardians",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsk26WyUAJrY81WuNL2XtAZc8wQxqxapyM10ivhFmwXQ&s",
-    "name2": "White Sox de Chicago",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZc5hXDERpkNzyRrUHOQFXelRxG6vF3xzC7hA_nh3gA&s",
+    "name1": "Mets de New York",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a2/PhiladelphiaPhillies_100.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Phillies de Philadelphie",
     "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H40",
-    "date": "14/09/2026",
-    "pro": "Total: (+5)"
+    "heure": "23H15",
+    "date": "17/09/2026",
+    "pro": "V2 Et TP(8.5) - NON"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5YYvtxNOw1zDFkxDeFlEhKGnYHGfVrYCWLAvwtu9XEQ&s",
-    "name1": "Reds de Cincinnnati",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpMsT6P42A15JWu2lwx4GrdCAryQH7ZHNzoKeOTCzJQ&s",
-    "name2": "Dodgers de Los Angeles",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/01/Houston_astros_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Astros de Houston",
+    "photo2": "https://cdn.freebiesupply.com/images/large/2x/kansas-city-royals-logo-transparent.png",
+    "name2": "Royals de Kansas City",
     "champ": "Baseball. États-Unis. MLB",
-    "heure": "22H40",
-    "date": "14/09/2026",
-    "pro": "V1 ET TM (7.5)- NON"
+    "heure": "23H15",
+    "date": "17/09/2026",
+    "pro": "V2 Et TP(8.5) - NON"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9l_ZmLxYb5TppQOuMejusy3cN6xDZxZy05zqvR5cW5Q&s=10",
-    "name1": "Blue Jays de Toronto",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Chicago_White_Sox.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "White Sox de Chicago",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/53/Detroit_Tigers_primary_logo_2016.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
     "name2": "Tigers de Détroit",
     "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H07",
-    "date": "14/09/2026",
-    "pro": "V2 ET TM (7.5)- NON"
+    "heure": "23H40",
+    "date": "17/09/2026",
+    "pro": "Handicap: 1(3)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Minnesota_Twins_2023.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Twins du Minnesota",
-    "photo2": "https://images.seeklogo.com/logo-png/29/1/new-york-yankees-logo-png_seeklogo-298489.png",
-    "name2": "Yankee de New York",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H40",
-    "date": "14/09/2026",
-    "pro": "Total: (+7)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGR8id4CtSdn-mj_vBWW2XcnqwD0Hp_I8CrU-W6i8Tw&s=10",
+    "name1": "Clippers de Columbus",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADqJZDu0k_N-fjVu9W5jnGRer-CeKNVQN0Vk3-2bsEQ&s=10",
+    "name2": "St.Paul Saints",
+    "champ": "Baseball. Ligue mineure de baseball",
+    "heure": "22H35",
+    "date": "17/09/2026",
+    "pro": "Handicap: 1(3)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStSLXRAwtOFp8iFyfK2raBW4CVqHIyZ_dThvnBHJSLkg&s=10",
-    "name1": "Chicago Cubs",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoE_Sn_LjbSJab17Lkn8mH3EQHpwaCwOQvfA4P5FaMg&s=10",
-    "name2": "Brave d'Atlanta",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H40",
-    "date": "14/09/2026",
-    "pro": "V1 ET TM (9.5) - NON"
+    "photo1": "https://www.mlbstatic.com/team-logos/share/552.jpg",
+    "name1": "Syracuse Mets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c6/LV_IronPigs.PNG?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Iron Pigs de Lehigh",
+    "champ": "Baseball. Ligue mineure de baseball",
+    "heure": "22H35",
+    "date": "17/09/2026",
+    "pro": "Handicap: 2(3)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/ee/St_LouisCardinals.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Cardinals de Saint-Louis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/68/San_Francisco_Giants_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Giants de San Francisco",
-    "champ": "Baseball. États-Unis. MLB",
-    "heure": "23H45",
-    "date": "14/09/2026",
-    "pro": "Total: (+6)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fe/ToledoMudHens.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Mud Hens de Toledo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Bats_de_Louisville_2016.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Bats de Louisville",
+    "champ": "Baseball. Ligue mineure de baseball",
+    "heure": "22H35",
+    "date": "17/09/2026",
+    "pro": "Handicap: 1(1.5)"
   },
   {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/a/a3/Club_Le%C3%B3n_%28logo%29.svg/3840px-Club_Le%C3%B3n_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Leon",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY04oZwxopXDCqTYRXRMgxUKdigHFEA9xMJXZaJT-6HA&s=10",
-    "name2": "Atletico San Luis",
-    "champ": "Football. Championnat du Mexique. Ligue MX",
-    "heure": "01H00",
-    "date": "15/09/2026",
-    "pro": "12"
+    "photo1": "https://images.seeklogo.com/logo-png/34/1/gwinnett-stripers-logo-png_seeklogo-348116.png",
+    "name1": "Gwinnett Stripers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/IND_4518.gif/250px-IND_4518.gif?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Indians de Indianapolis",
+    "champ": "Baseball. Ligue mineure de baseball",
+    "heure": "23H05",
+    "date": "17/09/2026",
+    "pro": "Handicap: 1(3)"
   },
   {
-    "photo1": "https://static.wikia.nocookie.net/liga-mx/images/f/f5/VAQREY26logo.png/revision/latest?cb=20260721202346&path-prefix=es",
-    "name1": "Vaqueros Reynosa",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wYe_5VxNTu1xveaielB9d40t15DyZPdD5Jl5EQI-Zw&s=10",
-    "name2": "Heroes de Zaci",
-    "champ": "Football. Mexique. Liga Premier. Série",
-    "heure": "02H05",
-    "date": "15/09/2026",
-    "pro": "1X2: V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c4/Scranton_Wilkes_Barre_RailRiders.PNG?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Scranton Wilkes Barre",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdl68yPVmDkRJq3mjeDlMmhvE38GzIP4zrq8t8A5V1g&s",
+    "name2": "Jumbo Shrimp",
+    "champ": "Baseball. Ligue mineure de baseball",
+    "heure": "23H05",
+    "date": "17/09/2026",
+    "pro": "Total: (+8)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT46873ujlTIVxvkDQBuZhQGY1Os0Y_ZE8rfgb6cybOzg&s=10",
-    "name1": "Pachuca (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNaleHnkPXgGZMMQ4sokiXMcGA8QHW-SKiM0RxV1h3Ng&s",
-    "name2": "Léon (Femmes)",
-    "champ": "Football. Championnat du mexique. Ligue MX. Femmes",
-    "heure": "01H00",
-    "date": "15/09/2026",
-    "pro": "Total: (+2.5)"
-  
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4f/Logo_Sounds_de_Nashville_2019.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Sounds de Nashville",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c3/Logo_Redbirds_de_Memphis.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Redbirds de Memphis",
+    "champ": "Baseball. Ligue mineure de baseball",
+    "heure": "23H35",
+    "date": "17/09/2026",
+    "pro": "Handicap: 1(3)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPl7Oz9PUbwn8CVvoMw19IIJoC10XenpDoyRE4hvJ78wWtco7ULjYB4u9k&s=10",
+    "name1": "Storms Chasers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/IA-C_5433.gif/250px-IA-C_5433.gif?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Cubs de d'Iowa",
+    "champ": "Baseball. Ligue mineure de baseball",
+    "heure": "23H35",
+    "date": "17/09/2026",
+    "pro": "Handicap: 1(3)"
   }
 ]
