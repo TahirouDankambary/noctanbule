@@ -7,9 +7,10 @@
     "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
     "date": "10/10/2026",
-    "pro": "Total: (+2.5)"
+    "pro": "Total: (+2.5)",
+    "proba": true
   },
-    {
+  {
     "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/46/Inter_Miami_CF_%28logo%29.svg/960px-Inter_Miami_CF_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
     "name1": "Inter Miami",
     "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_D.C.United.svg/960px-Logo_D.C.United.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
@@ -17,7 +18,8 @@
     "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
     "date": "10/10/2026",
-    "pro": "1X Et TP (2.5) - OUI"
+    "pro": "1X Et TP (2.5) - OUI",
+    "proba": true
   },
   {
     "photo1": "https://cdn.myfootballfacts.com/wp-content/uploads/2025/01/bl16400187892648-1.png",
@@ -27,9 +29,10 @@
     "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
     "date": "10/10/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "pro": "Deux équipes vont marquer: OUI",
+    "proba": true
   },
-    {
+  {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD9jQgzzMfSCk0Zip-Y1I-KqP3AVnFYikcHZDoz6yrpw&s=10",
     "name1": "New York Red Bulls",
     "photo2": "https://i.pinimg.com/564x/d1/73/24/d17324a28ca0e81020b04a7a70545b93.jpg",
@@ -37,7 +40,8 @@
     "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
     "date": "10/10/2026",
-    "pro": "Total: (+2.5)"
+    "pro": "Total: (+2.5)",
+    "proba": false
   },
   {
     "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/6/6d/Orlando_City_%28logo%29.svg/960px-Orlando_City_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
@@ -47,7 +51,8 @@
     "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
     "date": "10/10/2026",
-    "pro": "Total: (+2.5)"
+    "pro": "Total: (+2.5)",
+    "proba": false
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtE-YkGiyGmTr0ZXIM_O0wVcocERAhuW5aDiSMYvuxQ&s=10",
@@ -57,7 +62,8 @@
     "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
     "date": "10/10/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "pro": "1X Et TP(1.5) - OUI",
+    "proba": true
   },
   {
     "photo1": "https://assets.football-logos.cc/logos/usa/700x700/charlotte-fc.3b5fea7f.png",
@@ -67,7 +73,8 @@
     "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
     "date": "10/10/2026",
-    "pro": "12"
+    "pro": "12",
+    "proba": false
   },
   {
     "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d7/Sporting_Kansas_City.svg/1280px-Sporting_Kansas_City.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
@@ -77,9 +84,10 @@
     "champ": "Football. États-Unis. MLS",
     "heure": "00H30",
     "date": "11/10/2026",
-    "pro": "Total: (+2.5)"
+    "pro": "Total: (+2.5)",
+    "proba": true
   },
-    {
+  {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFz1AT-wHaknQI4fed5YkyiYIAxvxP6ZRfaWZYe7QKg&s=10",
     "name1": "Minnesota United",
     "photo2": "https://logos-world.net/wp-content/uploads/2020/05/Houston-Dynamo-Logo.png",
@@ -87,9 +95,10 @@
     "champ": "Football. États-Unis. MLS",
     "heure": "00H30",
     "date": "11/10/2026",
-    "pro": "12"
+    "pro": "12",
+    "proba": false
   },
-     {
+  {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmgvTNGXcMJ8agbqq3_lO9kvuWlhmHBiay0SiCWCq6EAIAm06TXFOWoco&s=10",
     "name1": "Austin",
     "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/1920px-Nashville_SC_logo%2C_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
@@ -97,6 +106,7 @@
     "champ": "Football. États-Unis. MLS",
     "heure": "00H30",
     "date": "11/10/2026",
-    "pro": "2X"
+    "pro": "2X",
+    "proba": false
   }
 ]
