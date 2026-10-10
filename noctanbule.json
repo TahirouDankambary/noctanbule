@@ -1,102 +1,102 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/77/Logo_des_Sabres_de_Buffalo_2020.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Buffalo Sabres",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOx_YEUwRDuBw9-sAIi99Ll8_46p7IFN58OLobo4G1vQ&s=10",
-    "name2": "Dallas Stars",
-    "champ": "Hockey sur glace. NHL",
-    "heure": "23H00",
-    "date": "08/10/2026",
-    "pro": "Handicap: 2(1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Bruins_Boston.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Bruins de Boston",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTZBAAlMhh2iga-9n_a6RhcgFNr_r81gBnUsr6aAxaA&s=10",
-    "name2": "Utah Mammoth",
-    "champ": "Hockey sur glace. NHL",
-    "heure": "23H00",
-    "date": "08/10/2026",
-    "pro": "V1 ET TP (4.5) - NON"
-  },
-  {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/05/Carolina-Hurricanes-Logo-2000-Present.png",
-    "name1": "Carolina Hurricanes",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQ58zgQcIhoe2G5aVkUOmF1TY-e-WxBrOy1W99AqFtw&s",
-    "name2": "Vancouvers Canucks",
-    "champ": "Hockey sur glace. NHL",
-    "heure": "23H00",
-    "date": "08/10/2026",
-    "pro": "2X Et TP(4.5) - NON"
-  },
-    {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/1280px-Montreal_Canadiens.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Canadiens de Montréal",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScT3SIVFHY9mDjEM2bKEz7wehDBVRkJmEifogRTrf-vonCO8bu9yd6sRoz&s=10",
-    "name2": "Nashville Predators",
-    "champ": "Hockey sur glace. NHL",
-    "heure": "23H00",
-    "date": "08/10/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVuq7wg8SQpeJNi9poLnHbgulrJn7FoF5UNhbL6xww3Q&s=10",
-    "name1": "Ottawa Senators",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/02/Flyers_de_Philadelphie_2023.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Flyers de Philadelphie",
-    "champ": "Hockey sur glace. NHL",
-    "heure": "23H00",
-    "date": "08/10/2026",
-    "pro": "1X Et TM(4.5) - NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYIc9yeYcnhcGKWRz9TDa8F8JMdDXydhLPYbZN8oBikg&s=10",
-    "name1": "Lightning de Tampa Bay",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/97/Logo_du_Wild_du_Minnesota_2000.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Wild du Minnesota",
-    "champ": "Hockey sur glace. NHL",
-    "heure": "23H00",
-    "date": "08/10/2026",
-    "pro": "Total: (+4.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/ef/Logo_des_Islanders_de_New_York_2017.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Islanders de New York",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXs2CNy_bck6jt0beFQkmit6ywH1rw_IvA-mVPl59srw&s=10",
-    "name2": "Blackhawks de Chicago",
-    "champ": "Hockey sur glace. NHL",
+    "photo1": "https://assets.football-logos.cc/logos/usa/700x700/atlanta-united.d52f72c3.png",
+    "name1": "Atlanta United",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaXFGS7ewv2yt2ucgiLFikIIH1oXKDvxiasu2PPNyvQ&s",
+    "name2": "Cincinnati",
+    "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
-    "date": "08/10/2026",
+    "date": "10/10/2026",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/46/Inter_Miami_CF_%28logo%29.svg/960px-Inter_Miami_CF_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Inter Miami",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_D.C.United.svg/960px-Logo_D.C.United.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "DC United",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "10/10/2026",
+    "pro": "1X Et TP (2.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/cd/New_England_Revolution_%28logo%2C_2021%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Nouvelle Angleterre",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_des_Seattle_Sounders_%282024%29.svg/3840px-Logo_des_Seattle_Sounders_%282024%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Sounders de Seattle",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "10/10/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD9jQgzzMfSCk0Zip-Y1I-KqP3AVnFYikcHZDoz6yrpw&s=10",
+    "name1": "New York Red Bulls",
+    "photo2": "https://i.pinimg.com/564x/d1/73/24/d17324a28ca0e81020b04a7a70545b93.jpg",
+    "name2": "San Diego",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "10/10/2026",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/6/6d/Orlando_City_%28logo%29.svg/960px-Orlando_City_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Orlando City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/2d/Columbus_Crew_logo_2021.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Crew de Columbus",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "10/10/2026",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtE-YkGiyGmTr0ZXIM_O0wVcocERAhuW5aDiSMYvuxQ&s=10",
+    "name1": "Union de Philadelphie",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Jwan6aSk2nMDeP-PvTJ5kSdKhX6XJJ3G08zy6YDCuw&s=10",
+    "name2": "Real Salt Lake",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "10/10/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://assets.football-logos.cc/logos/usa/700x700/charlotte-fc.3b5fea7f.png",
+    "name1": "Charlotte",
+    "photo2": "https://assets.football-logos.cc/logos/usa/700x700/fc-dallas.88d53618.png",
+    "name2": "Dallas",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "23H30",
+    "date": "10/10/2026",
     "pro": "12"
   },
   {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/02/St.-Louis-Blues-Logo.png",
-    "name1": "St.Louis Blues",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/2/2d/Logo_des_Sharks_San_Jos%C3%A9_2007.svg/langfr-250px-Logo_des_Sharks_San_Jos%C3%A9_2007.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name2": "Sharks de San José",
-    "champ": "Hockey sur glace. NHL",
-    "heure": "00H00",
-    "date": "09/10/2026",
-    "pro": "V2 Et TP (4.5) - NON"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d7/Sporting_Kansas_City.svg/1280px-Sporting_Kansas_City.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Sporting de Kansas City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWz080wAK6LSmF8QZgRMZ5h3on2aRBjMsnunN1dS0_OQ&s=10",
+    "name2": "Timbers de Portland",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "00H30",
+    "date": "11/10/2026",
+    "pro": "Total: (+2.5)"
   },
     {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/12/Calgary-Flames-Logo.png",
-    "name1": "Calgary Flames",
-    "photo2": "https://logos-world.net/wp-content/uploads/2020/05/Colorado-Avalanche-logo.png",
-    "name2": "Colorado Avalanche",
-    "champ": "Hockey sur glace. NHL",
-    "heure": "01H00",
-    "date": "09/10/2026",
-    "pro": "1X Et TM (4.5) - NON"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFz1AT-wHaknQI4fed5YkyiYIAxvxP6ZRfaWZYe7QKg&s=10",
+    "name1": "Minnesota United",
+    "photo2": "https://logos-world.net/wp-content/uploads/2020/05/Houston-Dynamo-Logo.png",
+    "name2": "Dynamo de Houston",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "00H30",
+    "date": "11/10/2026",
+    "pro": "12"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/55/Logo_des_Golden_Knights_de_Vegas.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Golden Knights de Vegas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/30/Logo_des_Maple_Leafs_de_Toronto_1987.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Maples Leafs de Toronto",
-    "champ": "Hockey sur glace. NHL",
-    "heure": "02H00",
-    "date": "09/10/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmgvTNGXcMJ8agbqq3_lO9kvuWlhmHBiay0SiCWCq6EAIAm06TXFOWoco&s=10",
+    "name1": "Austin",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/1920px-Nashville_SC_logo%2C_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Nashville",
+    "champ": "Football. États-Unis. MLS",
+    "heure": "00H30",
+    "date": "11/10/2026",
+    "pro": "2X"
   }
 ]
