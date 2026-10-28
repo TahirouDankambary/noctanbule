@@ -13,13 +13,13 @@
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrzq6ENMDI1f0l-3c7tuX9Yw2M2-jp-Gn_Br-HjSGag&s",
     "name1": "Revolution de la Nouvelle-Angleterre",
-    "photo2": ":https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U4lreenwttEwyB3xrXu9fnoHbavcaxvDtoULV0y92w&s=10",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U4lreenwttEwyB3xrXu9fnoHbavcaxvDtoULV0y92w&s=10",
     "name2": "New York Red Bulls",
     "champ": "Football. États-Unis. MLS",
     "heure": "23H30",
     "date": "28/10/2026",
     "pro": "12",
-    "proba": true
+    "proba": false
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIfDUtQeLlw3KKIEX1mKuNER98cdV7sV7wt3MdJM5EjA&s=10",
@@ -85,7 +85,7 @@
     "heure": "00H30",
     "date": "29/10/2026",
     "pro": "1X",
-    "proba": false
+    "proba": true
   },
   {
     "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/e/e3/Logo_Austin_FC_2021.svg/960px-Logo_Austin_FC_2021.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
