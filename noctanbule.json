@@ -83,7 +83,7 @@
     "name2": "Blackhawks de Chicago",
     "champ": "Hockey sur glace. NHL",
     "heure": "00H00",
-    "date": "31/11/2026",
+    "date": "06/11/2026",
     "pro": "Handicap: 2(3.5)",
     "proba": true
   },
@@ -93,9 +93,9 @@
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDlHTG66LM_oxHpVjVD_vRWVQhwzucUDto9n8DiLbn_w&s=10",
     "name2": "Ducks d'Anaheim",
     "champ": "Hockey sur glace. NHL",
-    "heure": "00H00",
-    "date": "01/11/2026",
-    "pro": "Handicap: 2(3.5)",
+    "heure": "01H00",
+    "date": "06/11/2026",
+    "pro": "12",
     "proba": true
   
   }
