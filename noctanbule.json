@@ -8,7 +8,7 @@
     "heure": "00H00",
     "date": "15/11/2026",
     "pro": "Total: (+3.5)",
-    "proba": false
+    "proba": true
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrd_4qXsi5090pPByI2CUQgLANA5k35Udn-KyIoBWg4Q&s=10",
@@ -18,7 +18,7 @@
     "champ": "Hockey sur glace. HNL",
     "heure": "00H00",
     "date": "15/11/2026",
-    "pro": "V1 ET TP (5.5)- NON",
+    "pro": "V1 ET TP (5.5) - NON",
     "proba": true
   },
   {
@@ -40,8 +40,8 @@
     "champ": "Hockey sur glace. HNL",
     "heure": "00H00",
     "date": "15/11/2026",
-    "pro": "1X ET TM (4.5)- NON",
-    "proba": false
+    "pro": "1X ET TM (4.5) - NON",
+    "proba": true
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQwSF0EtGeAyxEw-abVDB7G3gDWIYVY5darz2CgU0sIQ&s=10",
@@ -106,7 +106,7 @@
     "champ": "Hockey sur glace. HNL",
     "heure": "02H00",
     "date": "15/11/2026",
-    "pro": "1X ET TM (4.5)- NON",
+    "pro": "1X ET TM (4.5) - NON",
     "proba": true 
   }
 ]
